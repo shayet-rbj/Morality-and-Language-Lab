@@ -1,0 +1,850 @@
+0.404762	I feel anxious because I don't like needles, shots, or pricks, and I never know what to expect when I go to the doctor's office. Other than that, I am not usually too worried. 
+0.333300	It's extremely silly, but ever since I had to learn to perform blood pressure readings in a high school atomy and physiology class I find the idea of the brachial artery being shut off extremely creepy, which stresses me out and raises my (actually a bit too low, when it can be accurately measured) blood pressure. I then get anxious about the fact that the reading will be incorrect, which makes me worry more and drives the reading sky-high. It's an annoying and very nerve-wracking cycle that happens almost every time I go to a doctor's office.
+0.642900	I always worry that they will diagnose with something different illness or if they will prescribe some different medicine which at the end might have some sided effects.   
+0.142900	I don't really get anxious or worried when visiting a doctors office.  I don't see a reason to get anxious or worried when in most cases the illness you have is just something simple or common.  Even if it is a rarer disease, it can usually be treated in some way.  
+0.142857	nothing makes me feel anxieties or worried when visting the doctors offices around the world in the united states. 
+0.595200	unnecessary tests and procedures make me nervous. I don't like to have anything done that I do not feel I need.
+0.642857	I always afraid of getting some bad news. I don't want to be told anything negative. I don't want to hear any bad results.
+0.619048	Whether or not the doctor will listen to me and my companions in regards to my illnesses and current conditions.
+0.642857	I am overweight and I feel I will be judged. I also am afraid I will not know the right questions to ask the doctor.
+0.595238	I feel anxious sometimes the not knowing what the results of the test could be and if there is any change from the last time
+0.428600	nothing really just the quiet setting 
+0.690476	The unknown. I would much prefer to know exactly what the problem IS than to fret over what it possibly could be. The imagination can run wild
+0.190476	I really do not feel anxious or worried whenever I visit the doctor's office.  It is a routine visit/annual check-up.  
+0.547600	My anxiety stems from uncertainty. Each time I go to the doctor for a physical exam, I have to do blood work. Even though I am relatively healthy, I do not know what that blood work would come back saying. This has little to do with my doctor and more to do with just the uncertainty of the human body. 
+0.690500	I worry about all the things that could be wrong with me that I didn't notice, but the doctor might find out. These might be expensive to fix, or embarassing, or something that I was foolish not to notice on my own. I might not be in as good of health as I had thought.
+0.142857	the only time i felt worried is when I have to get blood draw. i also get worried when i think something could be wrong with me.
+0.547619	if there for test results the unknowing can be worrisome until you find out normal results..so it can be concerning.
+0.404800	I always have a little unease that they may find something that is not right. I have always had good health but you never know. 
+0.261900	Hoping the report will turn out fine as usual
+0.428600	the wait and being around other people who could be sick 
+0.571429	Not being able to get encouraging results or solutions to improve my health or relieve my pain   Most of my conditions are chronic and will not improve 
+0.285714	Actually, nothing makes me feel anxious or worried. I have enjoyed reasonably good health and believe that so long as I try to take care of myself, I will be okay. I do understand better than many the vagaries of life and I can only control what I can control
+0.642900	Not sure if they know what they're doing. Doctors seem to be really good at Emergency Care, and invasive procedures but a lot of the rest of the care they give is hit and miss or just plain wrong.
+0.785714	That they might find something else wrong with me that I didn't know was wrong. That they do a wrong diagnosis.
+0.428600	I feel anxious or worried when visiting a doctor's office because I'm fearful that something is wrong that I didn't know about and I'm scared how I will react
+0.833333	"My specialists never talk about nutrition.  The treatment options always include perscriptions or medical procedures.  Health alternatives are never mentioned.  I know from experience that diet and exercise can change the need for harmful meds and procedures.  This worries me that doctors do not take ""the whole being"" into perspective when talking about healing."
+0.738100	I don't like doctors in general. I always worry they will find something that I don't know about. I have a great doctor, but it is just a scary process. The physical evaluation is also worrysome. I don't like people poking around my body. 
+0.166667	the off chance that I will hear something I wasn't expecting, that tests have shown some terrible or incurable disease or I am much more sick than I thought
+0.142857	i feel fine for the mole st part , of course not having an clothes maes ou fell vulnerable te most parrt I am fine for thbu
+0.761900	The idea of receiving bad news is what makes me the most anxious and uneasy when going to the doctor's office. I hate the feeling even though I know it is necessary for me to get a physical examination.
+0.523810	The money and asking the doctor to complete forms.  They're so ready to treat conditions, but won't document it outside their notes.
+0.857143	because I'm not going to leave with any real information just a bunch of medicine I'm also worried that the medicine might have terrible side affects and cause long terms isdues
+0.714300	If I'm going there about something that I've noticed as a problem, I fear that it is some bigger problem that could be painful/long treatment to fix if it is even fixable.  I also know there are some issues in my family that could someday present themselves in me and I really don't want to have those problems.
+0.142900	I would feel anxious not knowing the outcome of the visit. It would scare me to find out that I have a problem with my health.
+0.523810	I am most anxious when I am waiting for my doctor to tell me the results of my annual test - whether I am maintaining my efforts to stay healthy.
+0.404800	It is uncomfortable to have someone examine my body, that is essentially a stranger, so intimately . It is uncomfortable no matter how often it occurs.
+0.714300	I feel anxious that the issues I have that I think are probably relatively smaller problems are the result of a larger issue that needs to be taken care of. I worry whenever I go to the doctor that he will find something serious that can negatively impact my life.
+0.428571	nothing without any reason sometimes i will get anxious but sometimes there will be some reason with of my job related work
+0.523800	
+0.690500	I get worried that I will have to get shots. I've had a phobia of them for a while
+0.809500	For me, it is the complete feeling of powerlessness. When I go to my doctor, I am both afraid of bad news, and no news. Bad news that will change my life, and also receiving no news at all, requiring me to repeat this same excruciating process in the near future. Good news is always the hope, but when I visit the Dr. I tend to look at things more pessimistically than I do in other aspects of my life.
+0.880952	I feel like when I go see my doctor that it's a waste of time because she just throws things at me and doesn't really know what she's talking about. 
+0.142900	Nothing, I love visiting my doctor.
+0.214286	If I have had one test or xray and I am called for a repeat one. If they call soon as you have left with test and cray results. 
+0.190500	I feel worried about my possible diagnosis. I worry that I might get sick more than I really am. I know my doctor will help me, but if I catch something bad, there's only so much she can do.
+0.690500	I sometimes feel anxious when I am unsure of an outcome. Say I have been having a gging pain or some kind of physical discomfort, for example. It makes me feel uneasy not knowing if these things could be serious or not.
+0.690500	The anxiety I believe comes from the uncertainty of what I might be told. Although I could leave the office with a clean bill of health there is always the chance you could find out you have a serious medical issue.
+0.309524	The news I am going to get back if I'm having an issue, getting blood drawn or getting stuck with needles, plus being around sick people
+0.357143	Nothing makes me feel anxious or worried about visiting my doctor because I feel as if my health is good. Something that may make me feel worried is the diagnosis he may give me. 
+0.523800	Not really about the doctor but more about what I might find out and how much it will cost.
+0.928571	I am always anxious when I have to interact with other people, and I have a lot of phobias related to medical equipment. I am also afraid of finding out something serious.
+0.881000	"I am worried about something very bad being wrong with me, and the potential that it will hurt me, my family, or cost lots of money and time.  If something very bad is wrong, all of those things I just mentioned will cause even more anxiety, every day without going away for a long time.  I am worried about how this will be perceived by my doctors. I am not this sort of people on a daily basis when I am ""fine"", I am most anxious in the doctors office because when I am there, it is because something is already potentially wrong.  Doctors generally try to prescribe anxiety or anti-depressants which I continually turn down for various reasons.  So then I an anxious about how they perceive me, and about how that they are wrong about what they are thinking about me overall."
+0.452381	Not being sure of a diagnosis can get me worried or anxious. Tests can cause anxiety until I find out what the results are.
+0.166667	I feel most anxious or worried when it comes to work or challenging situations that I have to handle.
+0.809500	I do not like the fact that something might be wrong with me and I can't do anything about it. I do not like receiving shots either.
+0.571400	If they will find anything wrong 
+0.690476	If you think there is something seriously wrong with you and you are going to get a diagnosis of something bad then you worry and dread it.
+0.166700	Because I am male and my doctor is female and I am conscious of myself. I know she is a medical professional, but I just get a bit anxious. 
+0.571429	There really isn't anything that makes me feel anxious or worried when I am visiting the doctor's office
+0.285700	I don't usually feel anxious or nervous when visiting a doctor.  I feel that whatever feedback I get, I can learn from it.
+0.714286	Show me a single person who isn't in any way anxious, nervous or worried when visiting a doctor, and I'll show you liar.
+0.547619	Because I am a smoker I worry if there could be something my doctor will find.  Also I know that in the future I will have to have some kind of major surgery, I am hoping that medication will prevent that from happening.
+0.619000	 I feel like they won't believe me when I say I am sick, and I'll have to pass some sort of test in order to get a prescription. I worry my copay money will be wasted if they just tell me to go home and wait it out.
+0.547619	I'm worried that I'm going to receive some bad news or be told something that I know but don't want to face 
+0.333333	I feel like the doctor will tell me something I don't want to hear. I sometimes feel a sense of dread at what he will have to say. I can not think of anything else to say.
+0.619000	The thought that something might be terribly wrong with me
+0.142857	I'm never anxious or worried when I have a doctor's visit. I always go in calm and collective and I hardly ever have any problems.
+0.428600	That he might find something I didn't know what was wrong with me.Or that I might need a shot. those things scare that crap out of me.
+0.690476	"Having to pay a lot of fees and monies above my insurance as ""standard procedure"". The history of medical apartheid. The rate at which doctors misdiagnose everything. The low quality medical care in the area I live in. Not being taken seriously. "
+0.595200	I think most people feel that way.  You never know what they will find and it is an anxious feeling every time.
+0.523810	because I am just a little scared about my results that I may or may not be getting back. And that is my answer fot this question
+0.714300	That what the doctor diagnoses me with is serious or untreatable. Also, the environment itself in a doctors office usually makes me anxious or worried. 
+0.142857	Nothing worries me about going to the doctor. I live for my kids and I'm healthy. When God calls I'm ready to go.
+0.547619	 It's not necessarily the doctors, I'm just a very anxious person. I suffer from anxiety and depression.
+0.857100	it makes me worried when i don't go as often as i should. So i know there is a possibility of being deficient in something that i could have prevented had i went like i was supposed to.
+0.500000	you never know what will come up.  What if an illness is discovered.  No one goes to the doctor because they are feeling good.
+0.452381	Sometimes if I have a questions I feel it is or could be a serious condition, I do feel anxious and worried at times.  I think I get anxious and worried because I have been thinking about my questions for too long.
+0.214286	The only thing that makes me anxious is being weighed. I am afraid he will be angry and demand that I lose weight. I've tried, but any weight I lose seems to come right back.
+0.690476	I have had lab work previously before each visit. Most times the news is the same, sometimes it shows improvements in some areas of health.
+0.238100	Because the only one that knows everything is God. For that reason I fell very anxious because no matter I'm healthy and fit and try to be doing the right thing you never know when your luck or the destiny is on you're side because when is you're time is you're time.
+0.619000	I'm 55 and haven't had a medical issue in decades. While I do exercise regularly and eat well; I've smoked for 20 years and drink regularly so if I had an issue I'd be concerned as I'm far from a person who you'd consider has a healthy life-style.
+0.500000	Generally speaking, I am fine going to the doctor's office unless I am waiting on test results for something or expected to have blood drawn, which I hate. I was the most anxious/worried when I was pregnant, as I had a number of manageable issues arise. Each time I went for another appointment, I feared the news of something else.
+0.285700	I am worried that the doctor might find a problem that has persisted for a while but has been unknown to me because there were no symptoms. I worry that the problem could be expensive to treat, or that it might be debilitating. I am not worried about talking to the doctor. In fact, I'd rather know about a problem sooner than later.
+0.595200	The main thing that makes me feel most anxious when visiting the doctor is the fact that I have to sit right next to other people that have things that may or may not be worse than what I already have. A little more space between chairs would be sufficient in my opinion. I'm also anxious when they check for other things than what I came in for .
+0.190476	Whenever you feel something out of the ordinary, you think about it until it is diagnosed, and that would make any normal person a bit anxious...
+0.142857	if they come up with a problem telling me something is wrong and i dont know how to take what is being said 
+0.738095	I don't like being examined by anyone, worry about what they are going to find and having to fight with them to get the prescription drug I need, because they are not listening to me or brushing me off. 
+0.261905	Any thought of health issues makes me anxious and give a little anxiety to anybody not just me. It does not have anything to do with my feelings of the capabilities of my doctor
+0.166700	The thing that makes me feel most anxious when visiting the doctor's office is if he finds something to be concerned about.
+0.595200	I'm always concerned that there might be some hidden condition that I am uware of that the doctor will find on a visit. I also dislike any sort of pain or discomfort during an examition. The worst part for me is waiting alone in the exam room before he comes in - my imagition is working overtime at that point.
+0.523800	Well, I don't want any bad news. Also, I just feel like I want to get it over with. I feel as if I am very rushed.
+0.261900	I just always feel a little uneasy and nervous waiting on a diagnosis. The feeling of uncertainty is always a bit unsettling. I try my best to not let it bother me to much.
+0.595200	I feel most anxious about what they may tell me or if I have to take off my clothes. 
+0.547619	That they'll be lazy and just guess what's wrong with me instead of actually figuring it out. Then prescribing me something I don't need.
+0.142900	If I have something new that's wrong with me and I'm already concerned, then yes, I am nervous going to the doctor, but it doesn't have anything to do with my physician. It just means I know that something is wrong and I'm nervous to find out what it is.
+0.738100	I feel this way because I do not know what the doctor is going to respond with after he alyzes my condition.  I am then feeling stressed because I will ultimately have to sift through the facts and determine how I want to proceed.  I get worried because I am afraid the doctor is going to provide a misdiagnosis or find something else wrong I may not have needed to know about at the time.
+0.714286	Having to get shots or taking scans or tests. They also scare me when they say they have bad news to give me
+0.142900	I am usually pretty comfortable visiting the doctor, the only thing that makes me really nervous is having to be completely naked or getting a gynecology exam.
+0.452381	What makes me feel anxious is having my doctor be disappointed in me. Also, it makes me nervous when I am not as healthy as I should be.
+0.428600	I feel anxious mostly because of just the uncertainty of what I  might find out, I think I go with the attitude to expect the worse. I also get upset because of having to wait for the doctor to do the exam, The waiting builds up my anxiety.
+0.428600	I feel the most anxious or worried about what the unknown could be when I visit the doctor for an illness other than a cold. I wonder what could be the cause and if it is something serious. 
+0.476200	What makes me feel most anxious when visiting the doctor's office would be finding out if i have some sort of illness that may have gone undetected.
+0.214286	taking routine examinations, such as colon cancer screening and waiting for the results. I worry when the doctor prescribes medication for me such as for enlarge prostate or high cholesterol, but he assures me it is just precautionary.
+0.357143	I wonder if they are going to find any new hrslth problems I may have. It is a little stressful to me.
+0.333300	When visiting a doctor I am worried that they may find out something that is wrong with me that I never thought of or had concerns over. The other things that makes me feel anxious is have a female exam. Even with a female physician this makes me feel anxious.
+0.142857	The only time I'm anxious would be with an unfamiliar doctor. Or if it's a procedure I haven't had before and don't know the amount of pain to expect. As long as I know what to expect, I'm fine.
+0.190500	i was quiet tensed if my health condition is not good. Even though it is small issue and it is not healing for many days that time i felt very disappointed. So at this type of issues i worried a lot. And each time i visit doctors office i was feeling like at least this time the problem should resolved. And also i was anxious about injections.
+0.142900	The things that could make me most anxious is that i am always pressed for time. The majority of the time when i go to the doctor it is a all day experience because the doctors office is so busy. SO i worry that i wont get out of there  on time to finish my day. I could also worry that there could be something wrong with me that is not fixable.
+0.142900	That the doctor may be over looking something or not considering all the available treatments available for my condition.
+0.642900	Sometimes I worry that something major is wrong with me (cancer or surgery needed).  I have a lot of chronic pain that I get nervous about when going.
+0.285714	If I am there for a new health problem and am not sure what the diagnosis will be, I am somewhat worried about what he will tell me.
+0.476200	I am most anxious when there's a time that the doctor takes a long time giving me a diagnosis of my condition one time, for some reason it made me very worried and fortunately, the results were not bad compared to what I was imagining.
+0.595238	Really, just waiting and taking time to sit in an office. Also, thinking what the doctor may tell me could be wrong or other health concerns.
+0.142857	Nothing really but if he might find something there and want to run test or tests  and the treatment options I might not agree with. I don't like taking a lot of medicine. So, I want other natural treatment options.
+0.142857	I have a gear of the telling me they have found something wrong with my health. I like my doctor to give me the truth.
+0.476190	I'm just worried they'll tell me I have some deadly disease or condition I never knew I had that they can't cure or know about.
+0.428600	When I am waiting to be told what is wrong, because you are left in a room alone for a decent amount of time. Your mind seems to wonder off and start thinking of everything that could be wrong. 
+0.523800	I worry they are going to find a health condition. I'm always worried they will discover cancer. I also worry in general that my cholesterol will be too high, they will comment on my weight, and other routine health conditions. 
+0.285700	It makes me feel worried that he tells me that I have some disease, that gives me a lot of pain if he told me that
+0.428571	I am most anxious when having my gynecological checkup.  I have a family history of breast cancer, and I have not always been financially able to have all the tests they wanted me to have.  
+0.523800	Well, if I'm going to the doctor's office (other than for a routine checkup) it's because I think something is wrong. If I think something is wrong, I'm worried about what that might be! Although usually they don't find anything to start with, then it's rounds of tests and exams and more uncertainty, which is stressful.
+0.690476	I'm worried they will find something worse than the problem I went in for. You go in thinking something may be fixed with medication then could find out it's really a life altering condition.
+1.000000	having something that is really wrong and that there wont be a cure for it and knowing that i would have to live with having that diesease to live with the rest of my life and not being able to cure it 
+0.619048	That my doctor might find something wrong with me that I didn't know about. Or I might need something that my insurance does not cover.
+0.547619	With having MS I want to make sure to address all issues or questions I may have, so I write all of them to reduce being anxious.
+0.785700	Not know what they are doing to find or say about what they find. They always say something is wrong so they can push a pill or want you to come back and keep paying them. The health system isnt really designed to cure you because they would lose customers then.
+1.000000	They want to make a healthy person sick by prescribing unnecessary tests and procedures to charge a huge bill, also lacking skills and giving incorrect diagnosis.
+0.476190	I feel worried that the treatment prescribed may not be working and we'll have to start all over with something new
+0.142857	I don't feel worried when going to the doctor I feel safe that she will take great care of me and respect my privacy
+0.928571	I have a rare and incurable autoimmune condition. It can manifest over time in several ways, one of which is almost total paralysis and untimely death.  OF COURSE I'm terrified of a full work-up, because there's always a very realistic possibility that the next news I hear will be a slow-motion death sentence.
+0.500000	doctors and nurses are always late and do not have any system that works around the clock.they also mix and lose prescriptions.
+0.333333	If I'm expecting some blood work or test results I sometimes feel a bit anxious at the moment.For the most part it always works itself out
+0.238100	Just having to have a physical, Other than that i do not mind going to the doctor's office as i generally only go for reason i am aware of..
+0.690476	Cause I don't know what type of treatment I would receive due the facts of my current different health problems
+0.833333	The news they will tell me or what they will try to make be a problem wrong with me when that isnt the problem. I had a doctor try to forve depression pills on me instead of trying to help me fix the problem. He was upset I cured mysef. That hurt to know he wanted me to stay on the pills even knowing they could make me worse.
+0.142857	Four years ago I was found to have Afib.  So since then I am more concerned about the cost of meds; their possible side effects; and having tests done.  I have had a cardioversion done 2 times and the afib has come back and because of the pain afterwards (it does not hurt at the time because you're given anesthesia) I do not want to have it done again.  
+0.476190	I don't feel anxious or worried. I mostly already know why I'm going to the doctor to begin with and always leave out satisfied. 
+0.547600	I get scared that they're going to tell me something is really wrong, even though I have no reason to think that.
+0.380952	I am usually anxious or worried of having high cholesterol,high blood pressure or other potential illness that might occur before visiting the doctor's office.
+0.690500	I always get nervous about having blood drawn.  Even though it's not that painful, I still dread the puncture.
+0.785700	Sometimes the most common thing is the unknown. What if they find something wrong with me that is far worse. I would sometimes rather not know then to know something is wrong. That would be the only real fear, or worry is finding out something that might be truly wrong.
+0.619000	If it is a routine office visit I'll likely not be anxious or worried since I don't anticipate any unpleasant surprises. If the appointment is due to a new or on-going problem I'm most worried about whether or not there is an easy solution to this particular health issue.
+0.666700	I do not like the smell of the waiting room because it smells like the alcohol wipes. I also do not like waiting when I am just going for a checkup and I have to be around all the other sick people. I also just do not like shots and that makes me the most anxious.
+0.714286	 What makes you me feel most anxious or worried when visiting the doctor's office is nothing at all. I know that going to the doctor at least once a year is good to take care of you.
+0.690476	My health problems make me nervous and scared because what i have is life threatening if i dont get the right medication and if i dont get that medication quick enough.
+0.142900	Sometimes I am anxious to see the doctor out of fear of receiving bad news.  My largest concern would be hearing that I have a terminal illness or that something else is wrong with my health.  I would just prefer to positive news when it comes to my health.
+0.285700	My blood pressure. I always worry that it's going to start spiking. It doesn't though, so I am mostly worrying about nothing.
+1.000000	I have a major fear of doctors and my health in general. I am always afraid that  I will be diagnosed with something or made to have a procedure that will cause me pain. It terrifies me that we put so much trust in doctors and that what they say could change the course of my life. I am probably overreacting though.
+0.214286	Usually I am anxious if I am having new symptoms and I'm afraid something serious may be wrong with me
+0.309524	Any time a needle is going to be involved I become anxious. Also when I have to have my yearly female examine I get a little anxious.
+0.142900	I feel anxious and worried when I have to go and something is wrong that I can't figure out pretty much by myself because my mother died from multiple myeloma. It was not found until she was stage 4. So I am always anxious whe I have to wait for lab results.
+0.547600	I usually not too anxious going to the doctor but there is some there.  You always here the horror stories of healthy people going in for a routine checkup and walking out with a serious disorder.  That is scary.  
+0.666667	I feel most anxious or worried when visiting the doctor's office because I am worry about that the doctor will tell me some bad news about my health
+0.190500	Even though I rarely experience health concerns, I have a  few family members that have been effected by chronic illnesses that have started as benign problems. The fear of finding out something serious in an appointment persists.
+0.714300	Health problems for me tend to get found when things go wrong. I have had serious health problems. Ever examition feels like it could lead to a new treatment, a new bill, a new health concern. 
+0.309524	That they make a recommendation that I disagree with. Or that they can find something I did not know about
+0.285714	this is a strange question considering that I checked off in the previous page that I don't worry or become upset.Is it possible that this is a biased survey?I am aware of my own overall health and don't leave my health status up to a physician to second guess.
+0.142900	I worry that I may catch something from another patient like the flu while at the doctors office. If I'm having an unusual pain I worry that maybe something is really wrong and I'm about to find out what it is from my doctor.
+0.404762	I feel that everyone gets a little anxious when getting examed. You never know what they're gonna find.
+0.690476	I always register high blood pressure because of being nervous and anxious in a doctor's office and I think a lot of doctors don't take that into consideration.
+0.500000	I don't go often because I feel there no reason to do this because most prescriptions have more side effects then the issue they take care of and I am not falling for that game
+0.404800	The reason I feel anxious or worried while visiting the doctors is because I generally only go if I am having problems so I'm turn I usually am thinking the worst diagnosis possible. 
+0.881000	I have a really bad anxiety disorder that makes it hard to cope with that situation. Also, if a new nurse is involved who doesn't know me well, it is hard to cope with. 
+0.285700	Nothing really anymore.  In the past it use to be getting on the scale, but now it does not bother me.
+1.000000	The blood needle the health and care telling you some is wrong with you health and nutrition take care of your self
+0.142900	What makes me feel most anxious is just the interaction with the doctor.  I respect his opinion.
+0.142857	I believe that the only thing that would make me a little anxious would be the wait time once back into the room. However, that wait time has decreased tremendously with the current primary physician 
+0.619048	Not knowing how my numbers are going to look is a big concern for me.  I try to eat healthy, but I have to admit, I fall down  quite a lot.  I have hypertension and eating right has a lot to do with keeping that in  tact. Then there's my weight which seems to have a mind of it's own.
+0.285714	germs so many sick people in the building it would be easy to catch something while visiting a docters office it is a frightening place really when one thinks about it its not good to touch things while on a visit.
+0.285714	more worried if i need to wait a long time and then doctor spend a few minutes for me don't lisen me carefully and don't want to understand my problem
+0.452400	I think it is just the unexpected. I'm ok as long as I know what is going to happen, but if I don't .. then I get anxious - confused - nervous and sometimes upset.
+0.142857	I am not not anxious or worried when visiting my physician's office. Cause he/she is real good at what he/she does.
+0.261900	I get anxious going to the doctor's office mainly because of any uncertainty as to what is wrong, plus the doctor's office itself makes me anxious, just the smell.
+0.642900	When I've read online about symptoms. I always expect the worst and then I worry that the Doctor will confirm what I read.
+0.547600	I've always been afraid of needles and visiting the doctor, but I have become better about this as I get older. Sometimes I worry that she will find something wrong that will require daily medication or some other more aggressive treatment.
+0.738100	I just get anxious since I'm not in good shape and something could go wrong. I would feel embarassed making myself sick for no reason.
+0.809524	I get anxious about having procedures done, such as surgeries, blood being drawn, shots , etc. i do not like waiting for results.
+0.333300	I am a general worrier anyway. Going to the doctor for a general check-up does not worry me. But If I am having any kind of strange symptom I may being to woryy or become anxious over what could be the problem.
+0.619048	The thing that makes me feel most anxious or worried when seeing my Doctor is when I know I haven't been doing what I was supposed to and I know what the doctor is going to say about it 
+0.142857	I don't usually feel anxious unless there is something going on with one of my children that I am uncertain of.
+0.404762	I just do not like any medical appointments. Not even dentist. There is not anything else to say I just don't like them.
+0.381000	finding out that something is more serious than I anticipated. getting sick from others at the doctors office makes me a little anxious as well
+0.619000	Unless it for just a regular check up I'm there for a reason which I need help with I'm worried. If I'm feeling pain especially in abdomen I'm especially worried it might be something serious like cancer.
+0.595200	It's most worrisome when you don't know what the results are going to be. It could be bad or it could be good, you don't really know what you're going to hear. Most of the times it ends up being good so worrying is probably unnecessary.
+0.547600	I worry I will be scolded for having poor self-care. I worry that they will find out I am actually quite sick. Also, I am generally nervous around many people who are authorities and I have a strong desire to look as though I know a lot, but I don't actually know much about the medical field.
+0.142900	the only thing i worry about is when i have to get a shot. i hate needles.
+0.428600	I don't feel much anxiety when I'm at the doctor's office.
+0.285714	My weight I am over weight and it has been a struggle for 2 years. I had it under control until I became disabled with limited mobility.
+0.523800	
+0.809524	I feel that going to the doctor is unpredictable. You never know if you're going to get good or bad news. There's really no way to prepare yourself for what type of news your doctor has for you until he or she tells you. 
+0.166700	I just don't like going to the doctors office. I am a very healthy person, but the process of being in the doctors office does generate a very small amount of anxiety. Mostly the long waits. After I meet with the doctor, all is good.
+0.238100	What makes me the most anxious or worried when visiting the doctor's office is the possibility of receiving really bad news whether it pertains to me or my children. This holds especially true every time my daughter has a checkup or when my wife and I had our hearts looked at to ensure we didn't have any issues go unnoticed for the majority of our lives.
+0.452400	If my blood pressure it too high, or my weight is too high.  I work out every day and I've been a healthy eater my whole life, so when my weight goes up, I get pretty upset because I feel like there's no reason for it.
+0.142900	Sometimes I fear getting vaccinations. I only fear them because I never expect it so it takes me by surprise. Plus I have a low pain tolerance so that lays a huge role.
+0.785700	If I am going in about a problem I am worried about what he tells me is wrong with me. I am worried that it will be something serious that would require more medical attention from a professiol.
+0.428571	I never feel that way. If something is wrong, she will tell me what the problem is. We will work on a solution together.
+0.142857	Needles I don't like needles that's about the only thing I would be anxious about other than that I'm just fine 
+0.380952	Not knowing what the results or treatment for the illness.  Uncertainty of the side effects of the treatment or medication
+0.547619	I'm always afraid they will find something terribly wrong that I wasn't aware of. Lots of issues have no warnings or so subtle you never think it's anything substantial.
+0.309500	My biggest concern is that I will not be able to describe my symptoms clearly enough, or remember all the relevant bits, in order to convey the full picture to my GP. If I do a good job of explaining my symptoms, then I feel she does a good job of piecing the info together and coming up with options for me.
+0.738100	I don't know what they are going to do to me, if something will be painful, or what the results of any tests might be. I tend to not think about my health too much but then when I go to the doctor suddenly I have to deal with it all
+0.523800	
+0.714286	That after running test and getting a full physical that the doctor will find something I didn't know was there.
+0.166667	I hate getting on the scales.  My doctor wants me to loose weight and I will really try and then I get on the scales at his office and I've either gained a few pounds or stayed the same.
+0.261900	Recently I worry more about if the doctor will accept my health insurance, than if there is something wrong with me. Also, I'm worrying how much of the bill is my responsibility and how much insurance's.
+0.595200	I always fear the worst. I think I'm going to end up getting something really bad and those thoughts run through my mind while im in the office.
+0.404762	Theirs always that chance that any of us humans can get bad news at the dr.s. thats why I dont like to see em.  Not even for a visit. Lol.  I should tho I kno I kno
+0.333333	Sometimes health issues come out of seemingly nowhere and even though I try to live as healthy as I can, I am concerned that I might have a condition. Family history tells me I could get certain health conditions.
+0.952381	I'm anxious because of the news I will get. I'm worried about the amount of time it will take and how long before I'm seen
+0.619048	What makes me feel anxious or worried is the dr. Finding something wrong. Also when you go the dr. And they find something wrong and sometimes you have to take test and waiting for the results is the worst part when you don't know what to expect.
+0.214300	What would make me feel anxious is if they were new in treating me. I would worry about whether or not we would have a good rapport. I would also worry about whether or not they were a holistic doctor or if they just wanted to push pills. I would also feel anxious if I was worried I had something bad going on. 
+1.000000	I have so many illnesses that I know it's always going to be bad news. The fact that I have out off my FNA biopsy for over a year says that. No one wants to know they have cancer. Especially at 26.
+0.714286	If I'm taking a test I get worried about said results. Or if I'm taking a loved one worried about the results. I'm sometimes anxious when I'm ready to leave 
+0.238095	that there maybe something he has found on a test i  had for him and if maybe there might be bad news about what he may have found out
+0.571429	I hate to get weighed at the doctors office. I am uncomfortable with wIting in the exam room also. I get a little nervous and sometimes forget to ask what I want to ask.
+0.309500	The thing that makes me most anxious is the fact that I always have to wait so long before seeing him.  Sometimes I might be in the waiting room for hours.
+0.547619	I don't get nervous to go to the doctor because there is not really anything to be nervous about at the dogtor
+0.142900	I don't feel anxious when visiting my doctor's office.  The staff are always very nice and make me feel comfortable, and my doctor has fantastic bedside manner that makes me feel at ease.  The only thing I would feel worried about is not knowing what's wrong with me.
+0.571429	When I'm visiting my doctor's office I feel most anxious or worried about my AC-1 reading, blood pressure, high cholesterol and my blood pressure
+0.547619	Don't know. No comnent, I am someone that doesn't go to the doctor unless there is something that is really bothering me and I can't get over ut
+0.142900	The only thing that  has ever worried me is having symptoms that doesn't have a clear diagnosis. At that point, the doctor has to guess just like I would. 
+0.380952	I only feel anxious if there is something new in the way a symptoms --what I am seeing him for---until he talks to me and tells me what they mean for my health.
+0.214286	Because i am not used to doing health esams very often, among other things of minor importance..........
+0.809524	I think it;s the certain checkups that I have to get. They can be very uncomfortable which naturally makes me tense. 
+0.666700	That they'll find something seriously wrong with me. I'm always afraid I will have some termil illness.
+0.166667	I rarely feel anxious or worried when visiting the doctor. I usually always feel confident. But if I ever feel anxious is when I'm visiting the doctor for a reason or when I'm feeling ill and need a diagnosis
+0.190500	It's uncomfortable and totally abnormal to be semi-ked in an exam room with someone you see once a year at best.   It's going to make anyone anxious.
+0.666700	Part of me worries that they may find some serious medical condition.  I also just find the whole thing awkward in general, sitting there undressed or half dressed.
+0.714300	Believe it or not, the smell. After that, I feel anxious sometimes being around sick people. Filly, I just get an uneasy feeling whenever I see a nurse or physician. Don't know why.
+0.642857	If I am going to hear that my progress is still the same. Or that my medication isn't working like it used to. 
+0.523810	not sure of what diagnosis will be and the resulting implications, concern of return of past issues - hvae lupus-concern about it coming out of remission
+0.142857	I do not feel anxious when visiting a doctor because I have studied up on !my condition long before I even got to the door.
+0.238100	Waiting on the dr to arrive in the room and then not knowing what the outcome will be of your symptoms.  Also can get nervous when waiting on him to provide you with test results.  It's an uneasy feeling.
+0.500000	Coming out with some diagnosis that I did not expect. Also coming up with something that would be expensive to treat.
+0.428571	 hope that the doctor will not find something wrong during the routine examination  This always makes me a little uneasy
+0.523800	
+0.142900	the fear of the unknown
+0.166700	I have white coat syndrome.  Any Doctors office makes me nervous, you feel like you're being judged.  I have gotten mostly over that but a new doctor will still make me feel that way. When I was younger I had a particular doctor that talked down to me and was unkind and it stuck with me for a long time.
+0.642900	With my condition, I have seen alot of doctors. But still am a little nervous going to appointments. Just removing your clothes and having someone poking around. I think it's also the unknown. 
+0.714286	Obviously if I'm seeing my primary care doctor there's a reason so of course I am a little uneasy as to the outcome.
+0.571429	That the doctor might find something wrong that is serious and might take me away from my regular life.
+0.166667	I feel anxious if I have to have blood drawn, or a shot. I don't like needles. Otherwise, I am rarely nervous.
+0.285700	that my doctor is not well informed of my health needs prior to and during the visit
+0.690476	I feel worried because I do not know if my health conditions has become better or worse.Sometimes I am even concern if they will add more medications for me to take.
+0.523810	It ultimately depends on what your going to the doctor for. I recently had a baby so every time I went for a check up I was worried that something would be wrong with the baby. I would get anxious that the baby wasn't progressing well and then when it came closer to my due date I was nervous to see if I would go into early labor.
+0.404762	Nothing at this point. I am pretty comfortable with going to the doctor and truly have no issues. I get worried that they will give me bad news 
+0.428600	I worry a lot about the cost. Medical care is so expensive, even with insurance, and there's no way to know how much things cost until the EOB arrives.
+0.381000	The most anxious part of a doctor's appointment is not knowing exactly what to expect.  As someone who is highly organized and detail oriented, I tend to get anxious when I find myself in an unfamiliar situation or surroundings and am not sure what to expect.
+0.142857	I have an anxiety problem when I have something to do. It's not being nervous at the Drs. office it's that I have to go somewhere.
+0.714300	I don't trust them.  I always feel like I'm taking a chance when I go to see them.  I always question whether anything that they want to do is appropriate.  I always assume that anything negative I've been told in a doctor's office is just a starting point, that verification of anything I've been told will require a lot of research on my part and possibly even a trip to another doctor (who will probably contradict the first doctor).  
+0.571429	You want to get good news not bad news.You never know what to expect. You need to know if there is something wrong.
+0.333300	when its a dental checkup i feel anxious.
+0.714286	when i have to have consultation visit to schedule a specific procedure i.e. colonoscopy, endoscopy. i worry the procedure is successful
+0.642857	I do not trust my doctor to take care of my needs. He ignores what I tell him and asks for unnecessary tests
+0.142857	The only time I feel anxious or worried is if my primary doctor is out and I have to see someone new. I also feel that way if I think something is really wrong with me and I don't know what it is. 
+0.666667	That my condition has worsened and soon I won't bre able to do things I want to do. Of worries me. I want to see my kids grow older
+0.666700	I don't like being touched and poked ad prodded. I also feel nervous answering questions and I worry about seeming like a giant baby so I tend to withdraw and overanalyze things. I will put off visiting the doctor because of these rasons.
+0.571400	If I am at the doctor's office for a routine checkup I usually feel fine. If I am there for a problem, I sometimes worry about what the diagnosis will be, such as what is the exact problem, cause, and how long it will last. I tend to worry a lot about physical pain when I have an injury, and worry that it might not heal properly, or that I might be in pain for a long time.
+0.523810	I generally do not enjoy needles or people touching on me. I have a slight anxiety when it comes to people.
+0.214286	That he will find something new to be concerned about and I will have to see other doctors and have tests to determine the best treatment for it
+0.309500	What makes me most anxious when visiting a doctor is whether or not I will be able to convince them to address all of my concerns rather than just the one or two issues that they feel like addressing. Other than that I have no worries about visiting a doctor because I realize that I'm getting older and I'm not going to live forever.
+0.142900	The only time i feel anxious is when i go for my annual mammogram.  Now that i get the digital kind its not as bad. I still get some anxiety. Any other time i go to dr i feel no anxiety. 
+0.142857	do not get anxious or worry when going to the doctors.I feel great,so going to the doctors dont make me worry or anything.
+0.547600	I don't like having people i don't know well touching me. I also have a small fear that the visit will result in the knowledge that I have a large medical problem.
+0.619048	What makes me feel most anxious and/or worried when visiting the doctors office is getting shots from the doctor 
+0.738095	I'm anxious about my diagnosis and prognosis, how it is going to effect my life going forward and if it will effect my family also 
+0.285714	Nothing makes me feel too anxious except for getting shots. Everyone hates getting shots. They aren't comfortable and they aren't exactly the best birthday gift! ð
+0.571400	You never know what is wrong, I get nervous going to the dr with a  complaint not knowing what it is.
+0.619000	Of course I am concerned there may be some serious issue that I didn't know about. Everyone is a bit paranoid about their health and little pains or symptoms that they experience.
+0.523810	I worry about what may show up in tests. Sometimes I'm unaware of a problem, but the doctor will find something that needs attention and/or treatment.
+0.476190	That they do not understand and beleive me that what I say is the true and not a hypochondriac. My medical disorder is hard to explain and not well know by my doctors.
+0.595200	I just do not like to go the doctor. I worry that the doctor might find something that is wrong or tell me something that I do not want to hear. I worry that my test results might not bge good.
+0.357100	I'm anxious and worried all day, regardless of where I am. Going to the doctor just adds a veneer of annoyance.
+0.500000	The fact of going there just sparks tural anxiety. I don't want to face any underlying issues. I don't worry too much but just want to be sure all is well. 
+0.690476	what he is going to say and why. how his mood will because he has been in a pretty bad mood and insulted me
+0.595238	I don't like needles, shots and having blood drawn are very painful for me. I get anxious when I think about shots or having blood drawn. They always leave bruises on me. It is hard for them to find my veins.
+0.357143	Just the thought of being in hospitals makes it seem like something is gonna be wrong with you when you go there
+0.571400	Finding out that I have something more serious than I thought I did in the first place. Generally I only got when I am very sick.
+0.142857	perhaps if I felt I had something really seriously wrong, I'd be anxious to know what it was, but ordinarily, I take good care of myself and don't fret over routine office visits.
+0.523800	
+0.547600	My blood pressure always goes higher in the doctor's office. I check it at home and know what it is.  Then I get a lecture on the blood pressure and then I get a lecture on my weight.
+0.666667	To think that something can go wrong or give me bad news makes me worried about visiting my doctor indeed
+0.571400	I feel most anxious about getting shots because of the pain , and the awkwardness of the situation . I am also worried the doctors may find issues with my health which can be very life changing .
+0.380952	just in cast I have to do something, by doctor's orders that's going to make me feel uncomfortable or place me in a negative position in the long run
+0.904800	First of all if there will be something seriously wrong with me. Secondly, if there is something seriously wrong with me and the doctor doesn't realize it because she is rushing through so she can move on to the next patient. Just her getting the diagnoses wrong in general. 
+0.523810	am afraid there might be something wrong that I'm not aware of and it might be too late to do anything about it
+0.595200	Thinking about whether I can explain my condition exactly or not is one thing that makes me anxious. Expressing condition is difficult. Also, when getting result of test, I will be anxious because there is no grantee if the result is good one. Especially after having PAP test and mammography, I become so anxious to hear the result.
+0.309524	When something about to change for the better and I am ready for it to happen. It cause me to have anexity and have hypertension 
+0.214286	I have never felt anxious when I see any doctor.  I am very pro-active in taking care of myself and believe strongly in preventative care.  I may sometimes be worried about something I may be experiencing at the time, but I am always one to not let any health issue go without seeing a doctor.
+0.142900	When I am unsure as to what is wrong with me and I when it's a new dr. that I have never met before. Also when I am having a medical procedure done that I have never had done before.
+0.880952	it makes me feel like I am going to be leaving the place poorer every time I visit an office. Its a never ending situation and it never gets better
+0.333300	I only worry about cancer, since it seems to be the hidden disease that pops up on people sometimes without warning.  This is about the only thing that worries me that one day it will show up on some sort of test.  
+0.119000	nothing really. it is what it is nothing to be concerned about. 
+0.571429	I don't like making a copay and wondering what else I will be charged for.  I'm usually worried that some test will come back bad.
+0.761905	I'm embarrassed of myself and how I let myself go and I'm fearful of negative diagnosis and worried I can't comply 
+0.214286	i really don't feel anxious or worried while visiting the doctor's office i'm in good enough health at my age
+0.595238	Not noing the outcome of a test the waiting on outcome of it hopeing the outcome is not bad that it lest than that that all.
+0.619048	basically the possibility of hearing about an unknown health isue not diagnosed with in the past  and what the outcome may be
+0.690500	When I go to the doctor's office I have a hard time not thinking of the worst possible outcome. All the uncertainty can give me anxiety. 
+0.714286	I worry that the medical problem I have will not be an easy problem to fix and I might suffer with alot of pain or might not be treatable
+0.142900	That it takes too much time to go to the doctor's. Terrible.
+0.476190	ALWAYS WORRIED THAT THEY MAY FIND SOMETHING THAT IS SERIOUSLY WRONG THAT YOU DIDN'T KNOW EXISTED.YOU ALWAYS HAVE THAT FEAR BUT I THINK THAT IS NATURAL.
+0.404762	I only feel anxious if I'm sure what is wrong with me. If it's just a regular checkup I'm not worried but if I'm sick and not sure I'm slightly anxious about what it could be
+0.309524	Not knowing the outcome of an examination is what makes me anxious during a visit. This means, not knowing if a test result will be good news or bad news and how I will deal with that.
+0.785700	It's not knowing test results. I want to hear quickly that I don't have serious illnesses. Then I can calm down and deal with what's bothering me.
+0.285714	The only thing that could make feel anxious or worried when visiting the doctor is if they tell me I have adisease
+0.571429	I normally do not. If I were I would say discussing my lab results. Not knowing what the results will be for days can be a bit hard. 
+0.238095	Probably not knowing if there is anything wrong with me until after the exam and whatever tests I may have to go through, It's just not knowing if i am okay or not.
+0.523810	Having to pay money i dont have to go. Made ti go because i have high blood preasure and she want a examevery 6 months. 
+0.619048	when they stop the convo and you start to think something is wrong with you, or you scared of your weight or blood pressure.
+0.571429	I worry about what the result will be because most people go for a visit for something simple and end up with Cancer,..I personally think Cancer is a word that most doctor felt comfortable saying and not wanting to do further research so now everyone have Cancer.
+0.142857	Will I feel like I'm going to get some bad news that something is really wrong with me so that's when I get to feeling worried bout my health
+0.309500	I sometimes worry that something will be found that will come as a shock or a scary diagnosis.  I also worry some kind of testing will need to be done
+0.761905	whenever you may be experiencing pains or problems you always feel a sense of worry, and you also can feel a bit anxious when playing  the wait game
+0.285700	I never feel anxious or worried when visiting my doctor. Even if the appointment is to discuss test results. I am confident if that there is a health issue of concern, my doctor has researched the best possible demerits to present to me.
+0.309524	There was not a good check on my health instead I was asked a few questions and let go. I would have liked to be checked more.
+0.142900	THE ONLY TIME I FEEL ANXIOUS OR NERVOUS WHEN I GO TO THE DOCTORS IS IF THEY THINK SOMETHING IS WRONG OR I AM SICK AND THINK I MIGHT BE NERVOUS OF THE OUTCOME.
+0.238100	The fact that something else could be wrong with me. I usually like going to the doctors. So, not too   much stress.
+0.619000	By the time I get to the doctor I've often thought of all the most terrible things my symptoms could be and though I know the worry is mostly unfounded, I am still anxious until I'm proven wrong.
+0.857100	they will want to take my blood pressure and start treating me for something completely different from what i came there for. if you look for something you will find something and that is what they always do they think they are not doing their job if they don't give you treatment for something
+0.523800	
+1.000000	I've never liked going to the doctor's. They usually just tell things I already know, but it doesn't make me feel any less uncomfortable. I don't think I'll ever be ready the day they tell me something I won't know about my physical condition
+0.452381	I am most nervous or anxious when I am sick and may need a shot. I am scared of needles and do not do well with them. I know they help but still  affects me
+0.595200	What makes me feel most anxious or worried during a doctor's appointment is serious, potentially life-threatening conditions. For cancer screening, I always become worried about what the doctor may find.
+0.714286	The human body is so complex and intricate that anything can happen. Sometimes we may feel okay but something can still be wrong, and sometimes no symptoms show for certain problems.
+0.285714	Because you don't know weather or not you are going to get good news or bad news about your health issues or what your lab reports are
+0.547600	Sometimes you just do not know what they will find. I worry that they may tell me something is wrong that I had no idea existed, so I am always a little nervous. 
+0.333300	Nothing really makes me all that anxious. Sometimes I dont like talking about my mental health issues like anxiety or depression because that just sucks. 
+0.142857	Nothing makes me feel anxious or worried when visiting my doctor. She makes the visit as comfortable as possible.
+0.547600	I think the possibility of them finding something like a tumor or cancer.  Also I feel like they judge me for not being healthier or in better shape
+0.809500	I am always afraid now that the Doctor will mess up and diagnose wrong and cost me or my family our lives. 
+0.452381	Nothing makes me worried when I go to see my doctor. I am anxious to see them tho. The wait is probably the worst thing about it.
+0.547600	I only feel anxious or worried, because I do not know what the outcome will be. I know the doctor will be a great help, but getting to the results is the anxious part. 
+0.595238	Not sure what is causing my health problems. As I age, I worry more about serious conditions. Expenses are also a concern.
+0.571400	You worry about what could possibly be wrong with you. Worry about getting certain things done. or worry about how people percieve you.
+0.904762	I feel very worried when I receive some bad notice about some parent, and want to know as soon possible some answer from doctor
+0.857100	Not knowing what is going to happen. Worrying that there is something wrong with me. Not trusting the doctors.
+0.357100	I am worried that they may find some problem that will require further surgeries and testing. Not that the doctor is unqualified.
+0.142900	I am not usually those things unless there is a really big issue. 
+0.285700	Just the activity of going to visit a doctor for them to possibly tell you something about your body you may not know. The experience in and of itself is a little bit nerve wracking.
+0.523800	I get worried about there being something really wrong with me. I get scared that it will be worse that it seems.
+0.904800	they don't explain what they think is wrong with me.  they just want to run more and more tests that i can't afford.
+0.500000	Only because I use to smoke cigarettes and although I quit there could still be a long term effects.
+1.000000	because you are afraid if they are going to find something wrong with you you feel good but they might find underlying things,   i mean they are the doctor
+0.357143	That there will be a long wait . I don't like getting there on time and then having to wait a long time to be seen . 15 mintutes late is extcable an thing else I feel is just to long .
+0.428571	I struggle with my weight so I am always a little embarrassed and worried that I will have to take my clothes off or worried that he or the nurses will see my weight and judge me.
+0.619000	I'm always afraid that I will get bad news and it worries we every time I go to the Dr's office. I have a great doctor and he always lets me know what I need to do.
+0.309500	I just worry that something could be wrong even though I know there's little chance of that being the case.
+0.761900	I am transgendered and I have been treated hideously by many medical professiols because of it. Add this to the fact that I believe very little of what doctors say and you probably get the idea.
+0.928571	I fear thinking about what he might find.   I also am really afraid of misdiagnosis. The main fear I have is being over medicated and the medicine being worse for me than the cure.    I hear so much on the news about medicine that I am really afraid to take it.
+0.880952	When results come back and i feel nervous for i dont think im in good health condition i always think that is the case even beforehand 
+0.571400	I don't like anything to change my schedule.  When I go to the doctor I feel anxious and worried.  But, the doc is friendly enough I relax.  I just want to get everything done.
+0.142857	the only think that makes me feel that way is physical check ups and also if i have to wait awhile to get into the doctor, i hate waiting in the room for an hour.
+0.571429	what makes me most anxious or worried when visiting the doctors office is if they change protocols or anything changes or is new
+0.547619	Get your tickets now that I'm a big hug can you please follow me please I love you so much for the first one to be a long time no see you tomorrow 
+0.190500	The only time I have ever been anxious when seeing a doctor was when I was pregnt. I would be worried they would find something wrong with the baby. Other than that, I usually have an idea of what could be wrong, why I'm seeing the doctor, and probably outcomes, and am as ready as I can be for dealing with it.
+0.619000	I worry that my doctor is going to give me potentially life threatening news. I'm left in the dark for most of my usually long visit and it just adds to my anxiety.
+0.285714	I have a  great faith not in my doctor but the doctor of all doctors he is concerned about me and my well being 
+0.523800	I worry about not making the appointment on time. I have to take the bus and make at least one transfer so there is a question of missing the appointment.
+0.571400	The most anxious feelings are brought on by the fear of what might be wrong with me. In addition anxiety also builds when trying to decide how I am going to describe my issues to my doctor.
+0.285714	mabey when test results are in a little anxious but not worried. I all way feel positive when tested.It keeps my spirt up and I can do other things.
+0.357143	Just worry there maybe worse news on my COPD but other than that I am not that worried.I love my doctor and she takes great care of me and has been 1 of the best I have ever been too.
+0.690476	having my blood pressure checked makes me nervous. I am already taking three medications to control it and do not want to add any more.
+0.595238	Because I don't know if there going to tell me something bad has happened or if something went wrong. It would make anyone worried what's so great about going to a doctor's office noting
+0.166667	Nothing right now.  I would be anxious if I suspected that I had a serious medical condition or other major concern. 
+0.261905	if my test results show that there is something wrong and i need further testing to rule out other possibilities. or when my iron is really low and need a transfusion which i dislike having.
+0.142900	Actually, I'm not worried when visiting my primary care physician. On occasion, I have been concerned when visiting a specialist regarding what they might find wrong but that is short-lived as I am always determined to approach whatever issue by working with the physician to resolve it.
+0.214286	Depending on why I'm at the doctor's, I might be nervous about the outcome of the tests and exams. Other than that, I'm not nervous
+0.785700	The uncertainty over the possibilities of what health issues could arise or be identified, not knowing what outcomes are possible and may occur.
+0.547619	I'm in my fifties and they say the older you get problems can arise.  I think they may find something wrong.
+0.833300	I always think something will be wrong. I think they won't take me serious.
+0.571429	Who I'm going to get. What their general attitude is. How much it's going to cost. Why they think they have to run a bunch of tests.
+0.142857	I don't worry about visiting the Drs, some tests are not comfortable but they are needed to make a informed medical decision
+0.238095	I am always afraid that there will be more medical problems happening that I didn't know about and will have to take even more medications. I am also afraid that treatments will become too expensive for me to pay.
+0.452381	Nike boys shorts are phone isa and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and get blocked in the actual world of outlaws and 
+0.571400	I don't feel anything in particular.  Why should I?  I don't know whether or not to trust what they say. So why should I feel anything?
+0.142857	The not knowing is worst but as soon as I get there all is good. So never be scared when you go to your doctor
+0.380952	I generally don't have a lot of axiety about the doctor. I do worry that when I have issues, it will end up being a wild goose chase of tests and other doctors without getting an answer
+0.214300	nothing really
+0.523800	The possibility of learning some potentially life changing information.  Also the discomfort of some of the procedures. 
+0.523800	
+0.142900	A primary concern for all of us would be the money and how much we will spend on the visit. Also thinking that there might be something terrible going on with me
+0.690500	Wondering if they will they get frustrated. Will this be fruitless and a waste of money. Can they help me.
+0.738100	I find it most uneasy the thought that they will find something serious wrong with me, and even worse, what this problem will end up costing me, both emotiolly and fincially.  I worry that any treatments will simply be out of my budget.
+0.571400	Going to the doctors office is just an activity that makes me unsettled. Generally you go to the doctor to fix a problem, but if not then there is a good chance you may get sick after you leave since there are several other sick people there usually. If you have a specific problem you are struggling with (nerve pain, for example), it seems that they know more than the average person about causes and possible medications to help, but really they are just guessing about what might work and what not and it's just process of elimition. It's frustrating.
+0.571429	nothing.I don't get anxious or worried when visiting my dr.unless there is a new symptom involved.Then I'm only worried or anxious during the first exam s
+0.523800	I feel most anxious or worried when I have a symptom that could possibly be something serious. I am somewhat anxious when having a physical checkup because of not knowing what he is going to do, or possibly because I know what he is going to do. It makes me a little anxious when he or the nurse takes my blood pressure, for fear that it will be too high. I suppose one of the things that makes me most anxious is when a doctor asks me to describe my condition in detail, and I have trouble putting it into words or saying how frequently something occurs.
+0.166700	There is a little healthy anxiousness that I fear each time I go to the doctor because of the unknown of what could be found.
+0.214300	Knowing what my weight is.
+0.738100	I tend to feel most anxious about what the doctor may discover.  For some reason, it seems that every time I have any kind of medical test, the doctor finds something new that is wrong with me.  It makes me feel that I don't won't the doctor to run any new tests because I know they are going to find something wrong.  Based on all of my recent experiences, I am seriously considering switching to a holistic doctor.
+0.238100	I hate needles! When I have to get a needle I get panicky. It's hard to explain because I have tattoos but, needles at the doctors are so different.
+0.333333	I really don't like being in the healthcare facility eve through I work in a hospital. It's weird being on the other side of things. 
+0.571429	I think what worries me the most is the final results of test and what procedures and medications I may be asked to undergo or take in ordet to improve my condition.
+0.881000	It's always the fear and anxiety over wondering what's wrong with me. Do I want to know? No, but I have to. It's the anxiety of wondering if it's something serious. It's the anxiety of possibly receiving bad news. It's the anxiety of worrying about possibly having surgery. It's the anxiety of being surrounded by sick people in the waiting room. All of that combined makes me very anxious when I visit the doctor. And most of all, it's simply the anxiety of getting bad news that worries me the most.
+0.880952	I feel very anxious and worried because i feel that i might hear information or something about me that is negative and bad
+0.500000	The reason. That I might feel anxious about my do tor's visit is primarily because if my weight and the fact that it's creeping up as I get older
+0.714300	They might find something seriously wrong with you, or they need to perform some invasive procedure.
+0.357143	I get anxious sometimes if they have to do a physical on me and if they have to touch me it's the only thing I get worried about.
+0.666667	I simply do not like doctors offices and i haven't for years. I always get nervous because in my conscience I feel something will go wrong even if it makes me seem delusional. 
+0.452400	That a symptom is more than I thought it was. That they're going to judge me for something and give me worse care. That they'll do something that my insurance doesn't cover and I won't realize it until I get a huge bill.
+0.404800	I am not too anxious when going to my doctor, that is, about the physical exam. I do have social anxiety, so for the most part I am nervous around all people and social situations. So sometimes talking one on one and being physically examined makes me anxious, but it's not the doctor's fault.
+0.142857	that he may find something new  as i have several items i am dealing with.                              
+0.738100	I'll answer with another question.  How does one feel when they take their car to the mechanic.  its a similar type of anxiety to me.
+0.547600	I worry that my blood pressure will be high again and that worry makes it worse.  I also worry that my disease will be out of remission and I will not be able to work.
+0.642857	I don't like to hear bad news ..worried there might be bad news. I don't like to be in a situation that is unfamiliar
+0.166667	may be the doctor really know what is actually wrong with the patent, also the co pay or lack of full medical insurance.
+0.309524	I get the most anxious about how my doc will react to my inability to eat better and lose weight.  He never pressured me about it but I think he is thinking it.  I hate letting him down. 
+0.380952	M  My .i me bad news When I visit the doctor I am most anxious that she will give me bad news.  My medicine she prescribes for me only manages my symptoms.  
+0.142900	I don't get anxious when visiting the doctor
+0.642900	I would feel the most anxious about finding out bad news.  I would be worried about finding out I have a health problem.
+0.571400	It would be finding something terribly wrong with me, like cancer or an unknown illness. That's the worst kind of news a doctor can give someone.
+0.619048	that they might find something I do not see or feel when I feel around to see if I have something or not and to have to take my clothes off to a certain point and about my weight too
+0.595200	Well it's always a scary situation as you get older when you go to the doctor because even if it's something minor they may find something major and the thought is always scary. 
+0.309500	I am most worried the doctor may come across a condition I was uware of, and that requires lots of treatment
+0.666700	There's not really anything specific that makes me anxious. I think I just dislike getting examined by people in general. 
+0.666700	I've always been an anxious person, I tend to think it's because my mother died when I was young. Going to the doctor for anything serious, or a new pain or issue is very nerve wracking for me. It makes me worry about death and what would happen to my kids if god forbid something happened to me.
+0.666700	i sometimes become worried because i tend to imagine the kind of disease they will find that i am suffering from,i fear the kind of injections and medications i will go through and at the same time i fear loosing my life because of illness
+0.547619	I worry what they are going to find wrong with me and I hate being referred to Doctor after Doctor. and they can't find what's wrong with me I just get real anxious and uneasy because it seems it always ends with me seeing Dr after Dr
+0.333333	that i am wasting my time and that they won't listen to me about what the problem truely is, they just want me out.
+0.357100	I know I take good care of my health but with my families health history you just never know what results could be of a test you have. The waiting game is tough.
+0.142900	I never feel anxious or worried when i visit a doctors office even if i have a serious problem so this doesnt really apply to me.
+0.238100	Visiting a new doctor can be a bit stressful because I don't know if he/she will listen to me or be accepting of me. Beyond that, there is always a bit of anxiety that something might be wrong with my health.
+0.285714	The only possible news that would have myself worried or anxious is having an issue with an extreme outcome, being a bigger issue than expected.
+0.666700	I usually have to go to the doctor for sick visits.  In that frame of mind, I am already uncomfortable.  I am usually worried that I will have a long way to recovery, or I will need to take expensive medication.
+0.309524	the only reason I would fell  anxious and or worried about seening my dr. would be that the  out come would not good for me
+0.547600	I just am anxious that something bad will pop up. I think things go ignored and could later turn out to be bigger issues the longer they go unlooked at. 
+0.142900	Just waiting for test results for days instead of getting them the same day of 
+0.523810	I M ALWAYS WORRIED THAT THE DOCTOR MAY FIND SOMETHING WRONG WITH ME THAT I'M NOT AWARE OF- LIKE CANCER OR A HEART PROBLEM
+0.666667	Cause you be wanted to now the results of the test that you take last week and you want to now some good news.
+0.166700	Nothing makes me feel anxious when I visit the doctor's office. I can also relate to what he's saying on a technical level and understand all of the different tests so it is hard to make me feel nervous.
+0.619048	I feel most anxious or worried when visiting the doctor's office is because my Mother died of Leukemia, and my Father died of Lung Cancer. I have a great fear of being diagnosed of one of these. It is very possible that one day I will be. 
+0.404800	I already suffer from a panic disorder with anxiety so I tend to be anxious anytime I go out in public, whether it is for a doctor appointment or not. However there are certain factors that make me worry. If it is just a physical or a normal scheduled appointment then I do not worry so much. But if I am going in to get an injury looked at then I tend to worry about permanent damage. When I was a teenager I suffered rhabdomyolysis. I was very alarmed and it required a long hospital stay. I would get worried after I got out of the hospital because they were sure if  I would get full use of my limb after it healed.
+0.523800	I feel worried and anxious that the doctor won't listen to my concerns and will dismiss me.  Instead of providing me with a solution, they just tell me there is nothing they can do to help me.
+0.714286	Simply because you never know when you may be given the news that you have a disease that will result in pain or death.
+0.738095	for me; because of my diabetes; i am always worried that there is some kind of complication that goes wrong for my body as a result of this disease.
+0.142900	That I'm told there is something wrong with me then I will feel anxious.  I just hope there is no bad news whenever I go to the doctor.  Hoping not to hear anything but good news that all is well or will get better. 
+0.404800	I feel most anxious and worried when I see a new doctor that I'm not very familiar with.  It takes time to establish a trust with a new provider, but once that trust is achieved, I'm completely at ease.
+0.666700	I don't like the impersonality there often is when being examined. It feels, sometimes, like being a car or something else that is being checked for malfunctions, rather than a person: the way you are led to a room and have to sit around waiting for the doctor, for instance. It also feels somewhat invasive to be examined in that way, and that makes me self-conscious.
+0.357143	that I will get bad news of some kind, or that I will have to discuss other options for a procedure I don't want
+0.785700	I tend to overthink every little situation. It's not the visit to the doctor's office that worries me or makes me anxious. It's the diagnosis that scares me. Whenever I catch something or develop a cold, my mind always seems to convince me that it's something serious. So, of course, my trips to the doctor have me feeling very anxious until I get a proper diagnosis and realize it's not that bad.
+0.690476	I feel like I know what their going to say.  Also it makes me nervous as there maybe something wrond even when there isn't.
+0.404762	The doctor finding something else wrong with me; I already have enough medical issues I don't need anymore.
+0.761905	I really don't like doctors offices, hospitals, etc because they seems cold, scary, and knowing that there are so many other sick people around me, potentially, creeps me out. 
+0.357143	I hate PAP smears.  They are invasive.  I am very low risk and challenge their necessity when I have an exam but I dread both having them and challenging my doctor about not having them.
+0.309524	If I don't know what is wrong with me (as opposed to a physical or regular visit for chronic conditions) I get a little anxious.
+0.357143	That there will be something wrong with me or something I didn't know about. The uncertainty of why I am there
+0.309524	I CAN FEEL WORRY IF I HAVE A PROBLEM BUT IN THIS MOMENT A DO NOT HAVE ANY. I FEEL OK AND EVERYTHING IS FINE TO ME
+0.738095	 im upset as she don't know anything about lupus, I have seen her for 10 yrs and she don't even remember me
+0.857143	Going to the store and going swim. Its summer nd its already hot. SPlashing through many winds and doing alot wimming in the pool on te way home.
+0.547600	"Nobody likes to be ""exposed"" to someone they barely know.  This in itself is enough to create an awkward and uncomfortable environment.  Most times I really don't want to know how much I weigh and that always makes me feel crazy too."
+0.333300	That they will misdiagnose or miss something completely, or not even pay attention to what I'm saying.
+0.142900	I feel most anxious when I see a doctor for pain or strange symptoms. I get worried that something is really wrong with me.
+0.690500	What makes me feel most anxious or worried when visiting the doctor is finding out if there is something serious going on with my body, as well as not always knowing my exact medical health and finding out something terrible.
+0.166667	the possibility of hearing that something serious is going on in my body and not knowing how to react to that type of news 
+0.285700	Usually nothing makes me feel anxious. If anything would make me feel anxious, I guess it would be that as I get older, I feel more likely to have them find something wrong with me. 
+0.142857	nothing makes me feel anxious or worried when visiting the doctors office.except  for reading about all the different types of birth controls.
+0.309524	Well when i get there and i take blood test i just be hopein it good news and not bad and i start pacein back and fourth and wat make me anxious is to get ouy of the doctor office
+0.214300	I get anxious when I have to get weighed because I already know I have to lose weight. I also get anxious when I need to have blood taken or I may be worried if I am waiting for some type of results. 
+0.404762	I have always been nervous when going to any doctor because I think that they may tell me something I don't want to hear or find something that needs to be addressed.
+0.547619	She was explained that there will be on-call doctor as a backup in case of an emergency. The patient seemed agreeable with instructions provided to her and does not have any questions at this point of time
+0.238100	I would be most anxious and worried at a doctors visit if I was being tested for some form of cancer. I would worry that I would be confirmed for having a difficult or tough cancer to beat.
+0.285714	Having good health for many years and then all of a sudden, you are having problems that will not go away.  You have tried to wait it out, however, it cannot wait.  Sometimes the doctor is late due to an emergency.
+0.761905	I'm most worried about what will be found and diagnosed during said appointment and that something small may be a large issue 
+0.142857	nothing under the sun supprises me. if you think bad bad things will happen f you think about good things good things will hapen
+0.690476	I get anxious over what they are going to find and what they are going to want me to do about it.  I also get anxious over the costs of seeing a doctor.
+0.214286	If I think that something is wrong and I might get a not so good diagnosis or like the treatment option that the doctor is recommending, because of the negative side effects; then I have to weigh the risks of treating the problem verses not taking the treatment and possibly making the condition worst, also if there is going to be a problem with the insurance company covering the treatment or if I will have a very high out of pocket expense and then have to figure out how to pay for treatment/medication I may really need for a particular condition.
+0.285714	I trust my doctor and i am always relaxed and not worried.  I always trust and feel great when I see my doctor.  Never any concerns.
+0.738100	What makes me most anxious is finding out the worst possible news in regards to the medical conditions I have had. I feel this way because I am a worse case scerio kind of person.  So I already have thoughts of what they might tell me.
+0.619000	"Anxiety is two-pronged, in this case: first, that the doctor may ""find something"" in my results, and second, the fact that he or she might not actually be correct about those findings. Doctors, again, are only human, and prone to mistakes or oversights. This makes all of their claims at least somewhat suspect. "
+0.571400	There is always the possibility of finding out something is really wrong or that something is going to be extremity difficult to treat. 
+0.714286	I'm worried that he may find some serious condition that requires either expensive tests or expensive medications.
+0.666667	I never know what to expect. I don't know if they will say my pressure is so high that I need to stay in the hospital.
+0.666700	I'm most anxious when waiting around. If there are test results in limbo, etc. My general experience is relief when I take care of whatever issues are at play.
+0.857100	I get extremely nervous and upset with every doctors visit that I have. Iâm always worried that something worse is gonna be found out or even just something new that could potentially be bad. I hate all the tests and blood work and just initially everything about it. I canât wait to get it over and done with and get back out of the office. Iâve always been this way and I suppose itâll never change. Even if it is just a simple checkup or something like that my heart still races and I get very anxious and nervous.
+0.142900	If I am sick, I will get anxious before seeing doctor worrying about what may be the cause of illness.
+0.857100	I am worried that they will find something bad. I am very anxious about my health and am always worried that something major is going to turn up no matter how unlikely that is. I also get worried about pain such as from shots. 
+0.690500	That the problem is much worse than what was anticipated.  In general medical office or hospitals give me anxiety, which compounds the issue of worry and anxiousness.
+0.285700	The only thing that really worries me is that they will find something bad, like cancer or something that will be expensive or difficult to treat. And depending on what happens with the ACA, I am also a little worried about what they will notate in my file. 
+0.333333	The cost of the office visit is the most painful part of the visit if you dont have any insurance. Dont no what else to add
+0.690476	I find pap smears to be very painful and I've had negative experiences in the past. I dread it every time.
+0.690476	I GET IN MY FEELINGS BECAUSE HE JUST DOESN'T ACT LIKE HE CARES. I AM JUST $ IN HIS EYES. HE DOESN'T FULLY EXAMINE ME OR TALK ABOUT BLOOD RESULTS OR ANYTHING. I DON'T ENJOY GOING AT ALL !
+0.238100	It is mostly that the experience will be unpleasant, not that the examination will find something wrong.  I'm also a little bit worried about being lectured on my bad habits, or pressured to do something expensive that I don't really need.
+0.809500	I am worried something wrong with me will be discovered. I would prefer to be healthy and not have to worry about dying/suffering so there is always that fear in the back of my mind.
+0.761900	That I will receive bad news but mostly because of my social anxiety as soon as I come in I'm terrified. 
+0.404762	What makes me feel most anxious when visiting my Dr. Is a strong feeling of wanting to know the cause and cure of my current ailment.
+0.785714	"When you're in pain and it's strange, you get worried before you even get to the doctor. And if you're like me, you already been waiting a few days to see if it's going to go away. When you finally go to the doctor, you tell them every info you remember about your symptoms. Then the dreaded thought, they have to touch the spot that's been hurting for days. They leave to go diagnose you and leave you there for hours with just your thoughts. Finally they come back to say"" here's a prescription, let's see if this works."" Omg I almost died from worry."
+0.690476	I feel uncomfortable knowing that I will have to answer uncomfortable questions. Sometimes I don't want to share what I'm experiencing or how I'm feeling.
+0.619048	im an anxious person by nature.  but I know im over weight I know ive had issues and I know im getting older which only means the worse will come.
+0.380952	because there could always be something wrong with you that you didnt know about or that the doctor overlooked. 
+0.333333	I feel most worried when I have to go get labs done and waiting for the lab results can be worrisome.
+0.142857	i do not feel anxious or worried when visiting the doctors office i feel very good my doctor has never made me feel those ways
+0.142900	I do not feel anxious or worried when visiting the doctor's office. The only scenario I can imagine this might happen to someone is they go to a new doctor and don't know what to expect or happen.
+0.595238	When a doctor tries to prescribe medicine for every little thing like a cold back pain instead of healthy alternatives
+0.357100	usually when I have to go to the doctors office, it is because of an injury or an illness. This most of the time means that I am in some sort of pain or something is uncomfortable with my body. being that this is the case the majority of the time can cause the stress level to increase more than normal. by no means is it the doctors fault. It is simply the fact of the pain or uneasiness caused in my body, that cause me be stressed in wondering what is wrong with myself, or if and when the pain or illness will end.
+0.928600	I never know what to expect.  It's good that i go but it's extremely stressful knowing they could find something drastically wrong.  There is nothing I like about it.
+0.142900	Not a lot. It would have to be something quite serious that i'm concerned about for me to be nervous or worried. I don't recall the last time i was worried about an issue i was having to be honest. The only thing i may worry about is the cost of an antibiotic and if it's available in generic form. 
+0.500000	I usually get worried about any of the tests that they decide to do and whether it is going to be painful or not. I also worry about the potential diagnosis I get, and whether it is going to be life hindering. But mostly, I worry that they don't detect the illness in time and it ends up getting to the point where they can't treat it anymore. 
+0.357100	I feel anxious because I want to be better but most times I have something new that arises and adds to my disease debt. I try to remain optimistic but until they give you a positive result it is hard to do that so most times I am waiting on them to say something negative. I also just don't like waiting long lengths of time for the doctor to arrive. More times than not the doctor visit will require a needle for blood work so that makes me anxious as well. I am presented with multiple people before seeing the doctor which makes me feel like I have a huge problem that many people have to deal with. I just don't like having bad news.
+0.190500	I think it is the diagnosis itself. My mind goes to a bad place for a bit thinking of the what ifs and the problems I have been having. My grandfather died of cancer 2 years ago because his doctor wasn't thorough and didn't catch the cancer at all. My mind always goes to that instance and I wish it didn't. I don't feel a ton of anxiety but it's enough to make me think back to what happened to my grandfather. I don't want that to be me.
+0.666667	What makes me feel anxious or worried is when visiting the doctor office if he/she find some wrong with me at that time.
+0.523800	finding out something wrong could make me feel a little anxious or worried but in general I prefer to know.
+0.619000	I get worried about cost of visit and needed things after. I also get anxious thinking they will have nothing but bad news for me.
+0.857100	Not knowing what the outcome is going to be is what makes me the most nervous. They sit their and run their tests, sometimes not talking very much, so you can only sit there and think that something is seriously wrong with you. I always fear for the worst, every single time. Be a use in most cases people usually get the worst news of their lives, from their doctors.
+0.333300	I tend to feel anxious because I really don't like getting exams. I feel worried because I tend to feel like something will be found even if I am a healthy person.
+0.428571	Just being in the doctor;s office makes me worried because it signals to me that I have let something go too long/or had a relapse as I have Multiple Sclerosis and I am so careful with my halth
+0.285700	I am most worried about the cost. I have the very good luck to never have health insurance when I need it, and even when I do it's still a large expense. I rarely feel any kind of anxiety over my health when I'm able to see a doctor, it's when I can't that worries me.
+0.714300	I think I worry the most about what could be wrong. Even though I'm in excellent health, I have somewhat of a fear that something could be wrong with me when I go in.
+0.428600	just the wait always makes me anxious. 
+0.571429	The wait and the pausing of the words instead of coming straight out and saying something I wish they would be straight forward
+0.381000	We all want to avoid bad news and pain
+0.428600	If the doctor will find anything that is seriously wrong with me out of nowhere.
+0.619000	My main concern is to find out that I have some really serious disease. However it is always better to know and start looking for the treatment or the setup a plan than not being aware and realizing it too late. The other thing that is very upsetting is the costs of the treatments. It is always expensive to go to the doctor and getting the necessary examinations. I do not understand how people are able to afford medical treatments. It is way to overpriced and after that you will live and work to pay back the costs of your medical treatment.
+0.285700	Nothing much really....
+0.785714	I am worried mostly about time restraints and having to wait longer times. This makes me late for other appointments.
+1.000000	not knowing what they find  out about your health  i get scared and anxious all the time especially just waiting  in the room
+0.547600	I am always a little worried that something is wrong with me, and I didn't know it. I also get worried that the doctor will be judgmental of my life, like if I gained some weight or had drinks over the weekend. 
+0.809500	It's ultimately the fear of the unknown. I could be walking around unknowingly with a disease that could kill me and not find out until it's too late.  
+0.142857	My doctor's voice on the phone if she calls me.  My doctor's the best in the world. She is good at what she does.
+0.571400	I do not really feel anxious or worried when visiting the doctor's office. If I ever have, it would have been for some symptom or pain with unknown origin that I did not know what was wrong with me and wanted to get to the bottom of it.
+0.761900	What makes me feel most anxious or worried is that I do not know what to expect each time with my persol health and hoping that nothing is going to come up as wrong or a health issue. I also get anxious about just sitting in the waiting room and wondering what will happen when I get called into the office. 
+0.333300	I feel anxious when I have been waiting for a long time and I have a symptom that is bothering me, such as pain. I just want to stop feeling the pain, but I'm dwelling on it because of the long wait in the waiting room.
+0.428600	I think I know how things will go, but there's always the possibility that I've missed something. I am never 100% confident in my ability to judge.
+0.619000	I worry that the doctor will just brush off my concerns. I also worry because I have a history of cancer in my family.
+0.476190	always feel this way no specific reason as to why I feel this way when making a visit to my doctors office it may be this is just a natural feeling for me
+0.190476	I get nervous going to the dr. I am very healthy but I am always concerned I am going to get random devastating news every time I go
+0.333300	I am getting to an age where cancer becomes more prevalent and also because of family history. I am certain that i will receive the proper care and support from my health care provider and family, but it is still an unknown concern.
+0.404800	When the doctor reads my sugar levels; I know he will scold me, and try to convince me to take insulin injections, instead of oral medications. 
+0.619000	"Mostly I worry about how the doctor will perceive me and whther they judge my bad habits. I sometimes worry about getting bad news about my health but I think that is normal, and it will only increase as I get older. I worry that they will rush the appointment and not answer all of my questions as well. I have to check the time they come in for billing purposes because they will bill me for ""expanded visit"" which is supposed to be like 20 minutes but they stay for only 7-10 mins. This is unfair and I do worry about it."
+0.571400	I am always anxious or nervous that something is wrong with me, or that they will find something that is abnormal.  I also just get uneasy in hospitals/doctor's offices in general.
+0.142857	Tell me if I have a promble or something not right or have something or There any big things in my body that's not working right and give me some Answer about my body I need too know.
+0.357100	I worry the doctor will not listen appropriately.  I worry that I'll be sitting alone for a long period of time waiting with only a paper on.  I worry that I haven't told the whole truth inadvertently.  
+0.285714	nothing really. i generally don't feel anxious about seeing a doctor. I have twice a year check ups and take prescribed medication as directed. I research any serious illness and seek advice or recommendations from friends and family. I do not allow stress to control or rule my life. 
+0.333333	They have to take blood by needle and I do not like any needles going into my body in any way. I usually always get a little worried that my weight might not be what it should be.
+0.285700	I would only feel anxious if I had grave physical symptoms.
+0.285714	only if tests came back positive.my doctor has the ability to make me feel confident & relaxed with her.
+0.381000	I only worry if I think something is wrong. I visit my doctor to decrease my worry.
+0.381000	I am always a little bit anxious that the doctor may have some bad news for me. It is also not very fun to be poked and prodded and I have a fear of needles. 
+0.857143	most anxious when I have to see several different doctors about different things and then put everything together
+0.381000	They advise me on weight loss as if it can be done over night or its really easy.
+0.428600	The only thing that I worry about when I go are basically health problems that are new and I really hate going to the OBGYN because it's uncomfortable.
+0.595238	I may find something out that I don't want to know so that is why I am worried when I go to the doctor most of the time but I always walk out happy 
+0.214286	I'm sometimes afraid of what is wrong with me especially when it comes to woman's issues. I'm afraid she will find something severe
+0.500000	I'm usually nervous that they will find something severely wrong with me, like cancer. So I avoid going to the doctor as often as I can. I also tend to get jumbled thoughts and get extremely nervous and it's hard for me to articulate to them what I have going on or what I may need. It also doesn't help that when I do speak up, I get shot down and they just assume it's something that I don't need to be concerned about.
+0.142857	nothing makes me anxious or worried most of the time i am pretty calm person and not worry too much about things
+0.738100	In all honesty, what makes me the most anxious is walking into the doctors office and sitting there alone waiting for my doctor to come. There is nothing more that puts me on edge like that.
+0.642900	I have a tendency to avoid going to the doctor unless it's necessary (even though I know it's not smart), so when I do go, it's usually because something is wrong. I worry that it's going to be something more serious than what I expect, or that something else wrong will be found. It's not really the exam itself that bothers me, but the potential for serious health problems.
+0.857143	hearing bad news such as my health worsening or something more is happening and there will be bad news and it will be too late to reverse the issue
+0.738100	I worry that I'll learn that something is seriously wrong with me, or that my doctor will miss something important when examining me.
+0.500000	Not sure what they're going to say, if something is wrong with me.
+0.214286	I am never anxious or worried when I visit the doctor - I am usually comfortable  and am not concerned 
+0.523800	
+0.714286	I just hate going to the doctors office and see what may be going wrong with my health. But I know that I have to go
+0.904762	Things that I have not noticed and the doctor might. And any treatment that might impact my life in a way that might be unpleasant.
+0.666667	Having my blood pressure taken because it used to be so high. Also, I despise gynecological exams and usually cry all the way home. Last time I cried in the office. Gah.
+0.761900	I'm anxious because I don't know what is wrong with me and I don't have any confidence in finding a solution. Mostly, I just go to get relief from whatever is ailing me but I don't expect to be healed.
+0.238095	 When i visit the doctor i feel anxious or nervous if i am sick and cannot figure out the cause of it myself.  If there is possibly a more serious problem that makes me anxious. 
+0.666700	treated me as if I were a number would not listen to my needs for anitboitics insisted on new meds that are not time tested and proved
+0.809500	I always feel like I'm getting in trouble when I go to the doctor.  I see them as an authority figure and having to discuss any issue in detail causes me great anxiety.  I feel that they will blame me for whatever health issue is going on.  I don't feel they will be open to discussing other options or side effects of medications they prescribe.  I often feel dismissed if I want to try alternative natural options.  They treat me like I'm inferior and they know best.  I hate having to feel like I need to fight for my own health issues, instead of just do what is convenient for them.
+0.523800	What makes me feel most anxious/worried about when I visit a doctor's office is finding out if something could possibly be wrong with me.
+0.190476	I don't do well with female exams due to past trauma.  Doc is kind enough to understand why I ask for her to tell me everything she is doing and when going to touch and where.
+0.261905	I am not usually worried when I go to the doctors office.. I have had so many issues over my life time it doesn't bother me to go anymore.
+1.000000	I worry that something will be very wrong with me or worse yet they will fail to find something that is horribly wrong. Additiolly I will have to worry that they will not take my concerns into account. 
+1.000000	When I had to go in for a CT scan of my head after a surgery (I moved shortly after this surgery so this hospital was new), the doctors started freaking out because there was a significant amount of blood around my brain, which we knew about after my surgery. They however didn't and they admitted me and were contemplating doing emergency surgery even though I wasn't displaying any alarming symptoms like I should have. Long story short, that even made me terrified of going to the doctor, because being hospitalized that rapidly even though I felt fine was really disturbing, and to think that if things didn't work out for me, I could have never seen the outside world again just like that. 
+0.881000	I get judged a lot.  My chronic condition involved weight gain.  I often feel the doctors see only the weight gain and not the person  
+0.642900	I do not feel that anxious or worried most of the time. But sometimes, I feel anxious which I think is very normal. I usually feel anxious or worried if the symptoms is something new. I am especially worried if I have my exams coming soon. I get worried about how long will I be sick, missing important class, not being able to do well in the class. Sometimes I get worried if the disease will last for a long time.
+0.428600	I think that there may be some hidden cost and it becomes an unattainable thing for me to get. It could be something worse.
+0.547600	I just don't like al the poking and prodding, and the overly eager attitude to just prescribe medication for every little thing.
+0.881000	I am afraid of being judged.  I am overweight and I haven't been to a PCP in many yrs.  Both of these things will bring judgment on me.
+0.642900	A few things. I get anxious because I'm not sure I'll be able to express all of my concerns, because I'm worried they won't take my concerns seriously or will dismiss them, and because I might leave without any answers (because they don't know what is wrong). I also get anxious when talking to people anyway, and doctors are worse than most people. They are busy and I worry about taking up their time. My symptoms are weird. I'm afraid I'll just look crazy.
+0.547600	I don't want to figure out I have cancer or some other type of illness.  I also feel anxious cause I have to get home to my kids and the doctor's wait times can be long.
+0.738095	I worry a lot. I worry that something big will be wrong with me. I often worry that I will get very sick
+0.976200	I'm worried that he is going to give me a difficult diagnosis and if I don't have someone there with me? Like a close friend or family member? I'm not sure how I would handle the situation because No one likes to be alone when bad news is delivered.
+0.690476	I just simply don't like visiting doctor's offices. I can't say that I enjoy doing this ever. Not many people do though.
+0.571429	I always get anxious when going to the doctor. I always fear the worst of everything  and get scared 
+0.428600	I don't tend to get anxious or worried when visiting the doctor's office. I think if I had a serious medical condition, the not knowing if I was going to get better or worse would make me the most anxious. I don't get nervous for annual check-ups. 
+0.285700	I always have a fear in the back of my mind of finding something wrong about my health. Both sides of my parents have a history of diabetes, and my mother's side have a history of cancer so anytime I go for a check up I worry about finding out that I may have it.
+0.690500	It is not comfortable being poked and prodded, so I always get anxious about that. And then I start thinking what if something shows up? There is a level they watch in my blood work and I worry it has fallen and I will have to go to a specialist. 
+0.785700	I feel very anxious when I am sick because I don't like not being in control. I don't know that the doctors make me feel any more anxious but they don't necessarily alleviate that anxiety.
+0.285700	Having to weigh myself in the beginning. 
+0.190476	If I'm having some test done and getting the results makes me anxious. If it is just a routine visit I completely at ease.
+0.261900	Hearing news that is not good.
+0.523810	when I go to the doctor they take a long time and I have to go buy fast food because I get out so late that's why I don't understand why I have an apportiment and get seen late
+0.381000	the uncertainty of something potentially being wrong.
+0.642857	If I have a condition I need help with I am anxious to find out what I need to do to get it taken care of and to know what the cost  will be for any medications 
+0.595238	I'm anxious that they're going to make me wait a long while before seeing the doctor.  I'm worried that when I am seen by the doctor, it's going to be a waste of time and they're not going to have any answers.
+0.380952	I feel most anxious that I might have something that I wasn't aware of before visiting the doctor regardless of how careful I think I've been.
+0.785700	I worry that something could be very wrong.  I could potentially be diagnosed with a terrible disease like cancer.  To me, it's just the fact that my day could have been going very well, and that could be changed with a few sentences.  I get concerned that something could have been wrong with me for a while, and that it might be too late to be reversed.
+0.619048	I have several chronic conditions.  I also take eight prescribed medicines on a daily basis.  I'm never sure of when the medications may have to be adjusted or replaced.
+0.595200	If I have some unknown pain I might think it is cancer or some other bad disease, but I have been lucky that I haven't had these conditions.
+0.142900	Nothing. I don't worry about it. I don't think anyone really does. It's such a normal part of people's lives like putting gas in a car
+0.285700	Nothing, I visit the doctor's office with they hope that they can resolve my issue, not worried that they'll make it worse.
+0.142857	I usually don't feel anxious or worried when I visit either of my doctors. They are there to help me and I rust their descisions.
+0.309524	I am fearful that they may find something that is horrible such as a long lasting life changing illness such as cancer
+0.714300	I've had exams by very rude and impatient ER doctors before that made me feel less than human. 
+0.690500	The thing that makes me feel most anxious is fear of the unknown. Sometimes I worry something might be seriously wrong with me.
+0.642900	Nothing foreal just wondering if something is really wrong with you.aBut u have to find out.Because it might be to late
+0.142857	"I often wonder if they are going to be on time with my appointment, will they make me feel ""rushed"" and uncomfortable about asking questions and wanting more answers, will my appointment get cancelled due to an emergency."
+1.000000	"The eyes they give me and the most thing I worry about and makes me feel uneasy is whether they will drop something bad on me such as ""there's nothing we can do""."
+0.238100	I do not get anxious around doctors.
+0.142900	"It makes me nervous to think about expressing some kind of embarrassing or personal symptoms that might not seem ""normal"". "
+0.523800	
+0.238095	it is the whole  getting undressed and having a stranger look at your hoo ha. I do not get respect and the doctors do not listen
+0.595238	I worry when I go to see my doctor about my weight and how to handle it considering its something I havent really dealt with even though my doctor has given me the tools to deal with it.I worry about my lab results concerning my a1c results since they are a direct result of my diabetes health.
+0.166667	Her talking over me and not actually listening to my problems. She would just listen to part of the symptoms or issues I have and explain that I am too young to be diagnosed with anything so she gives me at home remedies to see if the problem stops or persists.
+0.714300	With the doctor I've been using, you just never know what he will come up with. He's friendly at times and other times a real jerk. Also, he divorced his wife and married his nurse. Don't upset the Queen!! 
+0.952400	I fear most that they won't find a solution to the problem I'm having. My pains are real and sometimes they act like I'm faking it.
+0.809524	I feel anxious because I don't like going to the doctor anyway and I don't like to receive ad news. I hate this because even though I may be in good health that doesn't mesn anything. It just scares me even though nothing is probably wrong with me.
+0.881000	Blood work mostly, procedures that could go wrong, not really listening to me. The whole thing is a stressor.
+0.857100	I only get to die once an that is all my life can be.  Most people seem bad at accepting this let alone doing something to make it better.  I dislike the mind and the things we've done with them ever more.  Trying to believe someone is professional vested in myself getting an improved life seems beyond any idea of lies I could ever believe with any safety so I approach all medical professionals as near enemies.
+0.642900	My health isn't stellar, and I often worry that there's going to be a new condition pop up that I haven't had to contend with before. 
+0.476190	Nervous about whether they would give me bad news or not. Nervous that they may not be able to correctly diagnose any ailments I may have. Worried they may miss diagnose what ailment I may be having 
+0.166667	I do not feel any worry because I know I can control what I can control land I understand how to handle and control my life. Those feelings do not come about for me.
+0.142900	possibly finding out some bad news
+0.690476	I hate going in and having to wait hours to be able to see the doctor.  And then you wait another hour in the room with the nurse doing the basics. She writes everything down. Then I have to tell the whole story again to the doctor while they input the information again and again. They hardly spend any time listening to your heart or examining you at all.  It has been five years and I have not had a pap smear.  They say because of my age that they do not need to do that, but I am still sexually active.  So therefore, it should be done. My step mom had cervical cancer at 75.  So it can happen.
+0.809500	Finding out that something is wrong with my health and that I will have a short while to live or that perhaps my lifestyle choices will have taken a significant toll on my body and state of health.
+0.642900	I think just the thought of them finding something  wrong is why i get really worried , 
+0.619048	Taking my. Mood pressure. White coat syndrom causes blood pressure to rise more than usual. Also hate checking weight in doctor office. 
+0.142900	I am not usually anxious, but I guess it does cross my mind occasiolly that she may find something wrong during an exam.
+0.142857	I seldom feel anxious or worried while visiting the doctor.  I might not like my weigh-in, and might wonder what my blood pressure is going to be, but typically, I am  pretty relaxed about it... I might get a bit impatient when the wait is long
+0.714300	It's just the uncertainty. I don't know what they're going to do or say and I don't necessarily trust that they'll make the right decision. As such I just feel a general nervousness and uncertainty when going in.
+0.452400	I'm a turally anxious person. I think I go into the doctor's office with the fear that something is wrong, so I'm worried that I'll be right in that assumption. I'm nervous that I'll be scolded for not being perfect.
+0.142857	I have never felt anxious or worried when going to the doctor's office. The reason is because, since I have been going to him for so long, I know what to expect. The two times I was diagnosed with cancer, his receptionist would call me to make an appointment so he could he tell me in person. I always appreciated that.
+0.595238	I get worried at many of my doc apts, as I'm not sure how many of the tests I have done will come back. Most of the time, the news is good, but I'll still worry a lot. 
+0.666667	Doctors who give yearly physicals/checkups have issues with shaming patients and relying on that days results as an indicator of a patient's health and lifestyle habits. Many doctors also often make assumptions about women's sexuality and when a woman says that she does not sleep with men, still order pregnancy tests which is a complete slap in the face and is antithetical to affirming different sexualities.
+0.428571	That something is going to be wrong with me and it will be long term and it will be too late to do anything for me because i didn't listen to the advice of my doctor 
+0.595238	Other than the fact that ever thing I walk by is scanned and I get charged for equipment that won't even be used by me, what makes me most anxious is the fact that a trained professional will know what's wrong with me, have the resources and know-how to help, but won't because I don't belong to a certain tax bracket. 
+0.619000	I think when an exam takes place you are always worried about the doctor finding something serious. You never want to hear you have cancer or something  along those lines. 
+0.285714	I felt this way becausr or seemed like the doctor didnt take the time to hear all of my symptoms and he uses a computer to give him a diagnosis for whats going on with me
+0.381000	I'm not used to people poking me and prodding me. I also realize that I'm often being judged by my outside (since I don't wear makeup, will they assume I'm depressed?), that my outside figure doesn't reflect my habits (yes, I weight 175 lbs. And, yes, I go running multiple times a week. Both are true), and that some of my statements will be considered lies (people believe me when I say I don't smoke, they mostly believe me when they say I don't drink, but I'm pretty sure no one believes me when I tell them I'm a virgin). 
+0.238095	I always get anxious when I go to the doctor because I don't go there very often. It not a bad anxious it don't cause me problems or ruin my day 
+0.714300	That they are going to perscribe me something generic that only helps maybe 10% of my issue or just tell me to take it easy and if it gets worse call like i came out here for a answer not to be told im nuts
+0.690476	Thinking that they will find something that I am not looking forward and giving positive results when I am a negative. This just happened to me. 
+0.523800	Usually it's the unfounded fear that the doctor is going to find something this visit that will drastically change my life.
+0.428571	I have overcome any fears or hesitation which plaguey younger years. I look forward to being declared totally fit and healthy.
+0.309500	If I have all of my children with me Iâm only anxious that they will behave.  Iâm sometimes anxious that if I donât agree with what the doctor says I wonât feel bold enough to question it to their face.  I feel anxious when thereâs a disconnect between what they believe about a topic and what I believe.  I donât want to appear like I know more than the doctor, like I question their authority.  I feel anxious about not being in agreement with the doctor because I want to do what is right.  I donât like feeling like I have to go research on my own to make that determination.  
+0.309524	I only feel anxious or worried when there is a problem and I am awaiting a diagnosis. Other than that,  I do not usually feel anxious or worried. 
+0.452381	Always afraid something is going to come up wrong. So am sometimes nervous till results come back normal. I think a lot of people now days are like that.
+0.357143	Being diagnosed with something unknown to myself or something more serious than I thought. This is what makes me anxious or worried.
+0.738095	I often feel anxious or worried when visiting my doctors office because I am not sure of the outcome or the result of what she is going to diagnose me with. and based on the way of my living, I am pretty much expecting the worst
+0.690476	I simply hate being physically examined by a strange person. I also don't like being asked personal questions about my life and behavior, especially sexual behavior. I am worried that I will be considered strange or suspicious for not wanting to answer questions, so I prefer to avoid the situation.
+0.619000	Never know if when going for a checkup for one thing, some other thing could be discovered. I guess the anxious feeling is that i do not fully understand everything that could be happening in my body until a checkup
+0.142857	nothing, i do not feel any of those things, feelings when at the doctor. in my earlier years but not at my stage of life  
+0.690500	I suppose I sometimes think about the potentially worst case scenario for a given situation, and that may lead to some anxiety. Even if hypothetical, some visits may reveal an unexpected diagnosis, but on the other end of the spectrum everything may be fine. I suppose this is a situation that falls under the whole idea of hope for the best but expect the worst.
+0.523800	That something severe is wrong with me
+0.476190	Sometimes I get nervous and scared that I am going to get really bad news. It worries me. It's mainly fear that bothers me the most. 
+0.500000	The bill I will receive 
+0.761900	I have heard doctors tell me nothing is wrong so many times, and it makes me feel powerless. When I see a new doctor, I am worried that this doctor is going to be like most of the doctors I've had before.
+0.642857	i have anxiety in general. i don tknow what the doctor jight say or if theyre nice or what tht eistuon may or may not be so i just think about the possibilit.s
+0.142900	Nothing makes me feel anxious or worried when I visit a doctor's office.  I guess I hope they don't tell me I have cancer or something.
+0.809524	If I'm worried about money what my bill is going to cost me. Also it depends on the procedure that has to be done
+0.142900	I don't feel anxious or worried when visiting my doctor. 
+0.309500	I am afraid that they WON'T listen to me or treat me like an individual and a real person and will rush through and only give me about 8 minutes of their time and not even ask if I have any questions.
+0.500000	I feel anxiety when I have to wait for my turn and if I get some blood work done not knowing the results right away.
+0.642900	I am naturally an anxious person and I worry a lot, even when there is nothing to worry about my mind just starts going and I start worrying about a lot.  So just going in to the doctor's office makes me anxious.  I will worry something horrible is wrong with me.  I am not anxious about seeing the doctor as my doctor is great.  Its just everything that goes along with it.  Mostly just the thoughts in my head.
+0.571429	I am normally not nervous, anxious, or worried when I visit the doctor's office. I go expecting a through examination. I pray about any pending test results. 
+0.142857	When visiting my doctor the only thing that makes me feel anxious is the anticipation of the visit itself... 
+0.500000	I'm not really sure what makes me feel most anxious or worried when visiting the doctor's office.  Maybe it's the feeling of not being 'perfect' - not eating well enough, not having the perfect weight, not having the perfect blood pressure, etc. - and it seems that the doctor is always finding fault with something.
+0.523810	I am most concerned about what may be found about my medical condition.  There may be something new that appears about my condition.
+0.619000	When visiting the doctors office, I am nervous about seeing my doctor because of the poor relationship we have, as well as what he might tell my mother. Im not a fan of needles either, so when getting a shot it freaks me out. The anxiety lasts for about half of the visit, once I realize that im going to be ok i level out and calm down. I should realize this before I even get into the doctors office, but it still freaks me out. Maybe thats something Ill work on.
+0.571400	Probably being told that there are more serious issues than I though there was and having to do more treatment. 
+0.285714	Nothing makes me feel anxious or worried because I'm always positive in everything I do as a person 
+0.309524	That they will find something serious that is wrong with me or I will owe more money than I first thought I would owe them.
+0.690500	I am considered about my taste of health and an uneasy as to what new concerns might popup when visiting the doctor's office. I get worried about what the test results might show and am somewhat apprehensive about get the results back.
+0.476200	I just don't like doctors offices or hospitals in general.  I have never had any health issues so I am not afraid something is wrong with me.  I just have never liked them.
+0.142900	If I am worried about what I'm there for, then I'm worried.  For example, I had a lump that needed to be examined. My doctor was not concerned, but because of my level of concern, had no problem referring me for further diagnostics to help ease my mind.  Waiting for the results was the anxious part, but because my doctor was not concerned at all, it helped ease the anxiety.
+0.571429	The only thing I'll be anxious about trying to see if I have concocted a new disease or anything like that other than that I'm really not too anxious when I'm at the doctor's office
+0.357143	I get anxious when seeing my gynecologist.  I don't like the procedures. My doctor makes me comfortable
+0.904800	I guess, obviously, the thing that makes me most worried is the potential for finding something wrong. The second most worrying thing for me is being in that close proximity (prodded, touched) by someone. I also worry about catching something from all the sick people in the building.
+0.595200	"The underlying thought ""what if they find something""! It's a universal fear and it is what puts off most people. The worry starts when the nurse and doctor start with the small talk and only abates when it's over and they say you are fine."
+0.571429	My anxiety may become an issue when an unknown objective is introduced...ie when an special unknown test is used to provide information
+0.285714	If the doctor is not organized or does not have a clear plan, I get anxious.  If the doctor is unable to answer my questions or come up with a credible plan, I look for another doctor.
+0.309500	I worry that I may have a serious medical condition. This is usually fretting about nothing, but I continue to worry anyway.
+0.714286	That I am going to get bad news or that what I have been doing isn't working. I am always worried that my doctor is going to be disappointed in me which discourages me even more and is a reason I like to stay away from the doctors if I can 
+0.785700	That they will press on an issue that I don't feel like looking into or that I don't feel is serious. That they will refuse to continue seeing me if I don't do some kind of testing that I don't want to do. That they will think I'm lying when I say I have no issues. 
+0.404800	I have high blood pressure and at anytime I expect that will effect me in a negative way, despite having it under control with meds, I do still get worried at exams or blood drain. Another is my age. I am over 50, so I know lots of thing a happen at this age range that I should be concerned about. Getting a colonoscopy is one thing I have not done yet, and I should.
+0.595200	I wonder at what halfassed shit they are going to try and push on to me. The place I go is a little hick clinic. Nice enough people for around here but not well educated enough to suit me.
+0.571429	them not being able to tell you what is wrong with you. if a test does not show anything then they are not willing to investigate to find what is wrong. They will refer to a specialist but they are hard to find good ones
+0.357143	I am not anxious about any health concerns.  I am more upset about time waiting to see the doctor.  He is constantly seeing pharmaceutical reps. during office hours, which pushes back all his appointment times.
+0.142857	That the doctor will find something that will affect my health in an adverse way or something that is life changing.
+0.285714	UNCERTAIN IF ALL MY MEDICAL NEEDS ARE BEING MET EACH VISIT,,SHES VERY FORGETFULL,,SHE FORGETS FOLLOW UPS WHEN THEY COME AND FORGETS TO ORDER MY MEDS 
+0.690476	usually I would expect a good report from my dr, however I have recently had a couple of things that haven't been going as I would have hoped, and therefor have coused me to be somewhat anxious.
+0.309524	I am not anxious when visiting my doctor. If anything I am very relax when i go to visit my doctor. I look forward to seeing him because I feel he is just as much my friend as he is my doctor.
+0.142900	I don't usually feel anxious or worried when I visit the doctor's office. The only thing that might worry me would be the discovery of a negative health condition or disease.
+0.714286	I worry alot I had cancer almost 5 years ago.. SO it always goes threw my mind worrying if im gonna be ok and that it wont ever come back..
+0.642900	I am worried that my weight will be too high or my blood pressure will be elevated. I am usually only at the doctor if there is something actually wrong with me and this in itself brings me lots of anxiety. I wonder if they will know how to help me and I also wonder if it is something that is deadly or long-term. 
+0.142857	I am never anxious when I visit my doctor.  I have a list of concerns that we go over, and I leave on a very positive note.
+0.595238	Now that I'm getting a little older, I'm a little anxious because of my family medical history. Unfortunately, like many of us, there are several conditions that family members have had that could be genetic. I wonder what I may be predisposed to and how that can affect my current or future condition. I also get a little anxious about being in a doctor's office in general
+0.142857	I don't think that I would feel anxious about visiting a doctor's office because I know that they are there to help me ascertain if there is anything wrong with me and prescribe whatever medications I might need in the process.  
+0.523810	I feel nervous that I will be judged by my medical problems, I feel like I might be scammed for money, and I feel like I will be taken advantage of in  a money sense
+0.381000	I worry maybe my blood work might come back with something wrong. Otherxious.than that I usually am not anxious.
+0.500000	I have high blood pressure. I'm always anxious about have my blood pressure tested because it varies so much and it is usually high when I go to the doctor's office because I have walked to get there. Sometimes it bothers me because the nurses get a high reading and are overly concerned. If the doctor takes the blood pressure later it's usually lower, but the nurses don't seem to understand that.
+0.404800	I worry that test results will come back showing something wrong. These worries are usually unfounded.
+0.476190	that I may not have made the desired progress or that my tests will reveal some other medical issue.
+0.452381	"Sometimes, you never know what to expect. Especially, when you have already ""self-diagnosed"" yourself, it is scary. "
+0.285714	ususaly when i am there to learn about my blood work or to do a cancer check to make sure i have no more cancer
+0.642857	What makes me feel most anxious and worried when the visiting the doctor is not knowing whats wrong or knowing whats could be wrong and finding other things that are wrong
+0.404762	When you go you don't know what the doctor is going to say. So you might be worried or  anxious.And you hart might be raceing.
+0.142900	Nothing makes me feel nervous about seeing a doctor
+0.381000	The possibility of receiving bad news is one thing, but honestly it doesn't make me too worried.  If I receive news about a condition, I am then empowered to do something about it.  The only other thing I can think of that makes me anxious is thinking about the bill I'm going to receive later.
+0.571429	I have been misdiagnosed 3 times in 3 years - given the wrong med for my conditions, and each time it looked as though I was having a major health issue, when it was only the wrong med.
+0.381000	what makes me the most worried when visiting my doctors office is that a necessary test or screening may be missed or a wrong result may occur from a test.
+0.142900	I trust the doctors and I already know that they advise for the sake of every patient, and they never ought to harm intentionally anyone
+0.595238	I always think of worst case scenarios like cancer of some other severe conditions. I tend to think that every symptom points to cancer.
+0.547600	The main anxiety I have about visiting a doctor is receiving bad news about my health. I also fear having to undress or be naked in front of people I don't know
+0.333333	That I will have something seriously wrong with me that will take me away from my damily or cause oin
+0.142857	I usually not worried unless there's something in my gut telling me there is something seriously wrong with me
+0.190500	Sometimes I think I have the white coat syndrome, especially when it comes to my B/P.  I used to be on B/P medication and it was getting too low so my doctor took me off the medication.  Now my B/P is slowly creeping back up.  I do not want to go back on the medication so everytime I go to the doctor and have my B/P checked, I am anxious about what it will be.
+0.571400	Being forced to make a decision in a short amount of time about something that can affect my life long term. I also have to shell out a lot of money for a service that has a high chance of not helping me.
+0.547619	i think the doctor will find something wrong. An i will nit be sure how to handle it. As it may be serious.
+0.333300	turally worrying whether or not all is well. I also think the enviornment of the doctors waiting room and the doctors room can be intimidating. 
+0.238095	What makes me feel most anxious or worried when im visiting the doctors office is when i feel sick for more than 1 week
+0.571400	I'm worried about something being wrong with me or something that I would not expect. Also the time can be long in waiting and that makes me anxious.
+0.881000	I am just always afraid I am going to be told I have some sort of cancer or disease. I grew up with a Nana who was VERY OFTEN hospitalized and spent a lot of time there visiting her. She had a myriad of health conditions and I'm just afraid I'll end up like that no matter how much I watch what I eat and take care of myself.
+0.571429	Being told that what I am doing with myself is wrong or that what I've been told to do for a while is actually not good for my overall wellbeing 
+0.190500	I only feel a very small amount of anxiety in case something comes up that I wasn't aware of.
+0.714300	the feeling that given my age i might be diagnosed with a serious, life-threatening or costly condition. Or even worse, I condition for which I am referred to a specialist and they disagree in prognosis with the primary physician. 
+0.142900	Nothing really, maybe if they leave the examination room ans don't return for a while, I may get a little tense, thinking that something on my account is delaying their return.
+0.666700	I do feel anxious at times that they won't know what is wrong with me or it will cost a lot of money to heal me.
+0.142857	I do not feel worried or concerned when visiting my doctor, I want to know if there is something wrong or not.
+0.714286	I worry that my doctor is basing her opinion on guessing and not proof I know I need to find another doctor
+0.547600	Getting an uncertain or negative diagnoses would cause worry or anxiety. For myself or a loved one. THe feelings are the same
+0.690476	I'm afraid they will find something else wrong with me even if I just go in for a check up. I just get anxious I'll get news that something isn't right
+0.761900	I think it's just the idea that, while I may be there for one thing, they may find something else wrong with me. The idea that all the care I take to be healthy and to make sure I am well might mean nothing because my body might betray me in a way I have little control over. 
+0.190500	Except for routine visits, I go to the physician because of an acute condition. I usually know the best and usual course of treatment because I have researched it prior to the visit. I am anxious because my physician is sometimes blase and doesn't show the concern that I would expect.
+0.571429	Money! Everything is so expensive. It's so expensive and I've got what I like to call health anxiety. I always think it's going to be the worst thing ever.
+0.714286	I worry about what my diagnosis would be and I also worry about whether any conditions have been diagnosed before they become worse.
+1.000000	The fear of not knowing what was going to happen, or what they might find upon their examination of you. I think most people also fear the unknown, and are reluclant to find out the truth about their condition. 
+0.142900	The only thing I get worried about is that I am going to forget to tell the Dr. something or not be able to communicate correctly.
+0.571400	I think the routine yearly visits do not make me anxious or stressed out. I think if I have to go for something other than a routine visit there is some stress. The stress or anxiety comes from not knowing if there is an issue or what the issue may be. With the diseases in today's society, such as cancer, when you have an unknown health issue there is usually anxiety that comes with it.
+0.976200	I'm and anxious and worried that I may have a fatal disease. Also, my blood pressure always rises when she first comes into the room. She says it's a phenom called white coat syndrome. I also hate having my weight taken because I am fearful that I have gained too many pounds and will have to go on a diet. 
+0.166667	 When I am sick and don't know what's wrong I guess the anxiety comes from a fear that it could be something very serious that I will have to deal with. 
+0.761900	I am usually worried that he will discover something that is drastically wrong with my health.
+0.214300	Mainly Iâm concerned about spending too much time in the waiting room around people who have a contagious illness. 
+0.500000	That I will receive bad news - whether that is pregncy or a medical condition I didn't expect.
+0.476200	Nothing specific.  I do not take great care of myself and have a rough family medical history.
+0.761900	I am always worried that the doctors will not listen to my concerns and take them seriously. Most doctors I have seen just wanted to give me medicines without actually trying to find the cause of the sickness itself. I am always worried when I see doctors now that they will not listen fully to my concerns. 
+0.547619	The fact that anything could come up our happen Things that have you have no control over and that things could happen out of the blue no matter how much you try and prevent it
+0.571400	The unknown. Possibility that they will find something wrong with me that requires medical attention. 
+0.881000	I am anxious about what the doctor may say is wrong and that it may be something serious and my mind wanders in all kinds of directions . 
+0.523800	The unknown is what worries me.  It's the idea of the doctor finding something wrong that could be potentially serious and leads to a bad outcome regardless of what a doctor can do.
+0.619048	They will tell me i have a disease or condition that will affect me for the rest of my life and thats scares me.
+0.595200	The biggest anxiety or worry would have to be the worry of receiving bad news about my health.
+1.000000	I am always! always! Worried as to what the dr. may find, at my age its not a matter of if but when. I have been a care giver for my husband through cancer, heart problems and glaucoma. I wonder who is going to be my care giver? My husband is more than happy to let me handle all aspects of his health care, he just has to show up. I just dont have the courage to do it for myself.
+0.595200	A lot of times my concerns and symptoms are dismissed, and I am rushed out of the office.  It feels like my doctor is only there to put out fires and deal with absolute emergencies.  With smaller issues/pains that could potentially develop into something worse, she doesn't have the energy to investigate or deal with them.  The same attitude is prevalent with other doctors I've seen.
+0.857100	possibility of their being something seriously wrong with me; judgement from the doctor.
+0.785700	I get worried they won't be nice. I worry that they might look down on me. I worry that they might try to make me fearful. I've experienced this with some doctors. I've also had ones that don't listen and act annoyed when I ask simple questions. This is what I worry about.
+0.285714	I rarely feel anxious or upset at the doctor. The only time I recall being worried was when I had chest pains. I thought it may have been a heart attack, but it turned out to be stomach related.
+0.976190	I have just learned to live with it is just a part of my nature to be anxious or worried in certain situations, such as visiting the doctor.
+0.571429	Given the wrong diagnosis a few times. I have had 5 new PC in he past 7 years. That is very discouraging.
+0.333333	That he spends so much time looking for things wrong with me and after so much work to show something might be wrong, then I find out everything is fine, so I worried for nothing.
+0.571429	I have family a history of certain negative health problems so I am always concerned about test results that relate to any or all of these conditions.
+0.452381	I always get a bit nervous going to a doctor's office. I am worried they will tell me something bad even though I know I am okay.
+0.476190	The unknown can have a strange effect and some days one just isn't sure what the future holds and seeing a doctor can result in good or bad outcomes.
+0.738095	I feel anxious and/or worried when I'm visiting the doctors office because I'm not sure what the doctor is going to say. 
+0.642900	I have an anxiety disorder, and it's actually the waiting room that's the biggest issue for me. It's always full of other patients and there are no windows and only one exit. I have one of those faces where I seem approachable, and people always try to talk to me which makes it worse.
+0.642900	I am worried that they will find something wrong that I was unaware of and will result in a significant financial investment from me to treat. Our healthcare system is a joke when it comes to how much medicines cost. Your health is held for ransom by the drug companies and it's disgusting. 
+0.761900	Honestly, that they think I am exaderatting my symptoms - or that they will not know what to do and i go undigainosed or mis diagnosed because they are not allowed to perform the tests that they should be cause of cost
+0.571429	What worries me the most about visiting the doctor is when I go in for something that i am not sure about what is going on
+0.500000	I have anxiety and I'm always just worried that maybe something is wrong that I don't know about. So far, I've never had any bad or disappointing news to ever worry about, but you hear stories from others and it just keeps me on my toes. 
+0.142857	if my dr finds out in blood work i got what killed my mom or my dad.. then i would feel anxious or worried as both parents have since passed away..  i would definitely have to re-evaluate my life then 
+0.619048	If I'm having an irritation or sensitive reaction or infection going on on my skin that needs interrogating. 
+0.309500	I'd say just randomly having some new infection that I didn't suspect because I usually do things that wouldn't harm myself so this would surprise me and make me wonder which activity exposed me to this and what I can do to correct it. Also, I sometimes will worry about needles if I have to get one just because I'm not a huge fan at the end of the day
+0.666667	I am sometimes anxious when I visit my doctor as I worry that something really bad could be wrong. I think most people probably feel the same way unless they are going in for something minor
+0.357143	the medical results of the test of the reports in how long they are taking. Also the wait time for the doctor and how they people taking a long time
+0.785700	My main worries are that my lab work would have shown something or that the doctor is dissatisfied with something in my health. My family has many health conditions that I am predisposed to that I also fear about showing eventually in my life.
+0.595238	i have anxiety issues which elevate whenever i go to the doctor or and it doesn't matter what type of doctor it is
+0.142857	Nothing makes me feel anxious. I go there with complete faith and trust in God.I have no concerns. I am there to prevent things that may cause anxiety
+0.238100	I have no problem visiting the doctor's office. Other than the occasiol...I have absolutely no bedside manner doctor, I find doctors very accommodating. I however, hate Pap smears. Unless you've had one you can't possibly understand. So...no problems with going for physical other than pap and a small aversion to needles.
+0.785700	I always feel like they are not looking at serious underlying conditions that are not so obvious.  They never seem to want to do any tests that would uncover internal issues.
+0.547600	Not knowing what to expect when meeting with a new doctor. This applies to meeting new people in general, especially those with some authority (ex.: new boss).  Meeting new people always makes me a bit nervous.
+0.523810	It is often times hearing a test results and going in to due to symptoms I've being experiencing. Also, some doctor's offices have long wait times that's undesirable.
+0.571429	I become concerned that my doctor may find someone wrong with me that I can not financially afford to take care of
+0.809500	The thought of what could be found or diagnosed. I have not had much health scares up to this point but I am aware I am getting older and things are bound to happen. Both of my parents are both still living and very healthy for the most part.
+0.523810	Just the whole idea of not knowing what is going on with your own body. Fearful of family history of diseases.
+0.309500	I'm a little anxious about procedures that are done to me, I don't like anticipating the discomfort with some procedures.
+0.761900	I always worry that the doctor will find something significantly wrong with me. For example, I am a cancer patient, and constantly worry that he will find my cancer has spread. No matter how simple the problem, I become very anxious prior to my appointment.
+0.285700	If I am going to see the doctor, I may be anxious or worried that they will find a problem that could be serious.
+0.238100	I worry about the cost of things sometimes and if things will be more expensive than what i am expecting
+1.000000	I worry something terrible is wrong with me. I worry the news I get will be devastating and irreparable 
+0.738100	"My doctor is a part of the LDS Church, and I am too, but not ""active."" He is a high council member in the Church and has pressured me and tells me I need to go to my Ward (or church). I can't make this stuff up. I felt it stepped over the line or patient/physician relationship. It make me really anxious to go to another appt with him because I knew he would know I haven't been to church, or paid tithing, etc."
+0.238095	I sometimes just worry about what is wrong with me.  Just hoping for the best.  I'm more worried about results not the visit in itself.
+0.523800	
+0.238100	If I have something that I know has been bothering me for a while that could potentially be major then I worry a little more about it.  If it's just a routine ache then I don't let it get to me at all.  However, if it is something that is deeper say in the chest or stomach area that could be serious then I'm more likely to worry.
+0.690476	Because I don't want to find out something is wrong with me. I always worry that there's some problem that I don't even know about yet.
+0.785714	I feel like they are going to find something wrong with me that I don't want to hear and it will change my life forever 
+0.738100	I am worried frequently that they will again tell me nothing is wrong with me, despite a variety of seemingly unrelated symptoms that have persisted. I am also anxious that I will get overwhelmed and not be able to discuss my questions or accurately answer unexpected questions. 
+0.619048	Can I feel confertable following their advise after one Doctor seemed to be trying to kill me, by prescribing medicine that would destroy my kidneys.  Just lost a big share of my respect and trust in the medial profession
+0.547619	That I have something incurable and that will cause problems for my whole life and have to deal with even more anxiety.
+0.833333	i dont trust that the doctor is genuinely making the best choice for me. i like when a doctor gives me options and goes over all of my choices pros and cons. instead of telling me what to do
+0.285714	I do not feel anxious are worried during my doctor visits in general. Unless, I am seeking surgery or a chronic uncurable condition, doctor visits are generaly unstressful
+0.571429	I feel anxious, or worried because I wonder if I am going to be judged, or if they are going to tell me I have a serious life threatening issue going on. I wonder If something is going wrong if they will truly assist and do what they can to the max to ensure that every avenue, and the best avenue has been presented. I wonder if they even understand what I am feeling at that current moment. 
+0.761900	It's always a little awkward to have a physical.  I worry that my breath smells.
+0.690476	Well, in these circumstances I'm somewhat apprehensive and think that maybe there will be something wrong with me that I wouldn't like at all. So that's about it.....
+0.142900	I have only felt anxious around a new doctor once or twice. This anxiety would likely be multiplied if the care provider were significantly younger than myself. Otherwise, I don't have issues with anxiety surrounding doctors appointments.  
+0.142857	I do not like to wait . That's make me hate going actually . Anyway , I like my dr  and i will tell him  to solve the problem
+0.357100	Nothing typically does, I only answered the way I did regarding the few situations where I'm not sure what's wrong/how serious/etc. and I'm worried until the doctor reassures me/gets me the answers I need.
+0.381000	Health matters are always something to worry about. If we dont have our health then what do we have? My doctor was very open when alerting me to things I really need to worry about and address
+0.476200	I only feel anxious when I feel I have a problem that may require further visits. I have little or no anxiety with check ups or other tests. The only other times when I am anxious is when I have a problem so bad that it interferes with my life.
+0.619048	As stated before I have a hard time trusting doctors. Some times they just don't listen to what you are telling them. I can't always afford to go until I have no choice.
+0.523800	
+0.309524	That there is something really wrong with me and that they wont be able to do anything about it. That I have a huge issue with me even if it is only a small thing. 
+0.142857	i never feel anxious i am always calm cool and collected problems dont bother me i just push forward and solve trhem as they arise
+0.952381	STANDARD SENSE IN EARLY CENTER CONCERNED WAY TO BE  GET IT MUCH WAY TO FOLLOW BEING IN THE SIMA DE ENTRAR WITH ESTIMATED WAY TO FEEL ATTENTION TO COME UP
+0.714300	Well if I am in a doctorâs office that generally means that I am hurt or sick and I cannot take care of it on my own. So I am worried that the illness or injury is going to be worse that I feared. 
+0.976200	the unknown, not knowing what you could possibly find out about being sick. I worry about being judged by the doctors or nurses for my appearance or health care issues.
+0.142900	I do not get nervous when visiting the doctor's office. Getting anxious accomplishes nothing so I do not waste my energy on it.
+0.500000	I am just worried that something is more wrong than I thought was actually wrong with me when I went in there. I like being in control of my body but I just fear hearing bad news.
+0.285714	The potential of my doctor discovering something new that could completely change my life. Or my doctor telling me that something that I am doing is causing health issues. 
+0.404762	Because I'm afraid that they find me something bad or have to put some strong treatment that can alter the normal rhythm of my life
+0.452381	Ergo stop full tho thump syrup turbo turbo syrup full turbo tho ethyl syrup c shy ethyl turnip  tho Endo do tho GH ergo Rubio Rubio full full
+0.500000	I am really never anxious when I visit my doctor.  Although I may be a little worried about what might be wrong -- she and/or her staff usually are able to put my mind at ease!
+0.309524	I feel anxious at the doctors office when I have to wait a long time to be seen. I trust the process but I don't like to be late going back to work. 
+0.690500	I think it may be the atmosphere or the ambiance of the doctors office. Its too quiet and smells like disinfectant. Iâm always feeling a little anxious and nervous when I have an appointment even when itâs just a check up/physical. I donât know... Iâve never thought about why it is that I get nervous when I go to the doctors.
+0.595200	When the doctor is concerned about particular health issues I may have, I get a little anxious and worried but he has been the calm one in this relationship. He makes me feel better by explaining the whole process of care very clearly.
+0.714300	Feeling like a doctor missed something or I didn't speak up enough. That, and finding out something else that is just really awful.
+0.380952	I really don't know I just be very please nervous nervously nerves be bad as hell . Never worried just be very nervous.
+0.380952	Before USANA, there was Gull Laboratories. Dr. Wentz spent 20 years developing medical diagnostic test kits designed to detect infections and certain autoimmune disorders. In his experience, Dr. Wentz led to a heightened awareness of the importance of optimal nutrition in maintaining the health of human cells. This awareness, and the clear lack of advanced nutritional support in the market led to the sale of Gull Laboratories and the beginning of a new organization. In 1992, USANA was born. USANA offers its products to customers through a process called direct selling. Direct selling is a little different from what youâre probably used to seeing. Instead of selling our products at the grocery store, products are sold directly to Associates and Preferred Customers. You may ask why our business is set up this way, and the answer is centered on opportunity. USANA has always been about more than simply selling the best wellness products in the world to great peopleâwe wanted to give people the best opportunity to make their life the most successful it can be. Meaning we want people to be happy and healthy physically as well as financially. We use direct selling with the intention to help people get what they really want: freedom. Freedom to do what they want and when they want. The direct selling opportunity may not be for everyone on this planet, and thatâs OK. It doesnât need to be. We donât profess to have a quick âget richâ plan, or to have the âonly wayâ to earn a living. But we do claim the ability to give people another option to build wealth and establish financial stability, especially when they already love our product and are seeing great results. Itâs an opportunity for those looking to build their own business, but maybe wary of doing it all alone. Learn more about how to become an Associate or Preferred Customer of USANA here. Also, click here for our opportunity disclaimer.
+0.142857	Nothing makes me feel anxious when visiting my doctors office because she is very thorough, patient, understanding, etc etc etc
+0.142857	I do not feel anxious or worried when I visit my doctor's office due to the face I don't have any major health issues.
+0.857100	A doctor's demeanor and how nice or mean he will me makes me scared. It also makes me scared that they won't be able to diagnose properly.
+0.500000	I feel anxious and worried when I'm waiting for tests results to come back. I also feel worried when the doctor won't prescribe a certain medication that I feel that would help me.
+0.547619	i'm afraid they will find something seriously wrong with since we all have to die sometime. i'm 54 now and in good health but you never know.
+0.571400	School and my future makes me feel worried about my future. There is a lot of pressure I have going on in my life and it can be a little too much at times.
+0.214286	When I am visiting my doctor I am most anxious or worried about my weight and weight related illness or disease.  I have gained a lot of weight since I have last visited the doctors office.
+0.238100	I get anxious if I think something is seriously wrong. If I have a very concerning symptom, like a lump or blood....that usually makes me nervous. Otherwise, I am generally at ease while at the doctors office.
+1.000000	I do not go to the doctors when I have a cut finger or a bruise.  I only go to the doctors when I am sick, and I do not need to be poked, prodded, felt up, have things inserted etc. Why so I need a stranger touching me, I do not like to be touched, that is why I do not fly.  There is some thing wrong with a stranger touching you saying this is going to hurt a bit etc. Doctors make me feel very uneasy and nervous, which makes me very unhappy.
+0.809524	I'm afraid he might find something else wrong with me. I have a lot of health issues. Every day it seems like something else goes wrong with me.
+0.142900	Nothing makes me feel anxious or worried when visiting a doctor's office.
+0.142857	nothing makes me anxious about visiting the doctor. i like going to the doctor's office. i just don't like the waiting time there it is too long
+0.619000	When I don't know what is wrong with me and the doctor can't seem to find out either. It make me anxious and uncomfortable, but I try to remain calm so I can get accurate tests done.
+0.309524	You never know what they are going to tell you or the next step in progress or if something isn't right and have to change your life goals
+0.690500	The idea that I might find out something bad about my health. Especially if I've already been worried that something bad is wrong and I've been researching health issues online that might apply to my situation.
+0.571429	nothing I don't mind seeing a doctor but I don't think they really care about me, only the bottom line, Money !
+0.952400	I worry about what the doctor might find wrong with me. I worry whether the doctor will make a mistake or whether they will listen to my concerns. I get very anxious having to wait a long time for the doctor to examine me. In that period of time, all kinds of thoughts go through my mind. 
+0.500000	Mostly, I am an anxious person in general. Plus, I'm always a bit worried that something will show up that is wrong with me. Doctors offices in general make me a bit anxious.
+0.666667	The fear of the unknown, the fear of something being worse than I thought, and most of all not being able to cure a symptom I currently have.
+0.642900	"I have general anxiety disorder - my default brain state is slightly worried, with a tendency to latch onto any ""abnormal"" event as a cause for worry/stress/bad reaction. Specifically with doctor's visits I worry that they will ""find something"" wrong. There is really no reason behind it, and I am fully aware of this. I can deal with it, but I still have to experience it. I actually relax/do better if they do find something, because then I can talk about it, get, and give more info. It is mostly the unknown that is bothersome to my brain."
+0.476190	i feel that my medical condition may show signs of a negative nature like my blood pressure may be too high and i will need to take medication to address the situation.
+0.928600	I am afraid that the doctor will find something seriously wrong with me. I am also afraid that the doctor will make a mistake or mis-prescribe me a wrong medication. I also feel that the doctors do not really listen when I tell them something. 
+0.142857	If i know they have to draw blood, I hate and am scared of needles, that is the only thing that makes me feel anxious or worried when visiting the doctor's office.
+0.238095	Not knowing what's wrong or what caused an issue would make me the most anxious. If the doctor can't identify the issue, that would also make me anxious.
+0.476200	I worry the most about the diseases that the other patients are bringing to the waiting room. I also worry about the cost and the excuses my insurance company will give me for not covering what they are supposed to cover. I worry a little bit about the quality of care and whether or not anyone in the office will take their profession seriously during my visit.
+0.500000	Wondering if something is much worse than I think it is is probably the biggest thing for me to make me super anxious. I dont like that because who knows what the problem is.
+0.452381	Have been able to maintain conditions successfully but become anxious about test results that may indicate those efforts are no longer adequate or show some new and unexpected malady.
+0.571429	If I go to a doctor then there is definitely something wrong.  I do not regularly go to the doctors but when I do then I worry about how serious it may be.
+0.261900	I am most anxious that i will get bad new at the doctor such as high blood pressure or something else going wrong. I usually do not have any issues once i am there but the lead up to going to the doctor makes me very anxious and worried. 
+0.142857	I am worried that the doctor will find something that is very serious wrong with me and that the treatment will be long term and expensive or that it will be something that can not be treated.
+0.166667	If he is going to tell me something wrong.I am not anxious about my doctor.I feel good most of time when I go to my doctor office.
+0.381000	Bad surprises.  Not getting satisfactory answers and/or individual attention
+0.523800	The unknown variables of health tend to make me feel most anxious and worried. Especially when dealing with critical or chronic conditions, the downsides to health complications can be dire and that is something that I would rather avoid.
